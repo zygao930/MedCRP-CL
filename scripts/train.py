@@ -65,7 +65,7 @@ def preprocess_batch(images, prompts, processor, device, config):
     return inputs
 
 
-class MedVLSMDataset(Dataset):
+class MedCRPCLDataset(Dataset):
 
     def __init__(self, data_root, dataset_name, split, prompt_strategy, config):
         self.data_root = Path(data_root)
@@ -211,7 +211,7 @@ def load_model_full(save_path, config):
 
 
 def evaluate_task(model, processor, data_root, dataset_name, device, config, prompt_strategy, task_id):
-    dataset = MedVLSMDataset(data_root, dataset_name, 'val', prompt_strategy, config)
+    dataset = MedCRPCLDataset(data_root, dataset_name, 'val', prompt_strategy, config)
     loader = get_dataloader(dataset, config['eval_batch_size'], shuffle=False,
                            num_workers=config['num_workers'], seed=42)
 
@@ -304,7 +304,7 @@ def train_model(model, processor, config, datasets, order_name):
     for task_idx, ds_info in enumerate(datasets):
         print(f"\n--- Task {task_idx + 1}/{len(datasets)}: {ds_info['name']} ---")
 
-        train_ds = MedVLSMDataset(config['data_root'], ds_info['name'], 'train', prompt_strategy, config)
+        train_ds = MedCRPCLDataset(config['data_root'], ds_info['name'], 'train', prompt_strategy, config)
         train_loader = get_dataloader(train_ds, config['batch_size'], shuffle=True,
                                       num_workers=config['num_workers'], seed=42)
 
