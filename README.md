@@ -2,7 +2,7 @@
 
 **Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery**
 
-[Paper (ICML 2026)](https://openreview.net/forum?id=v0DWbfP3b9) · [Checkpoint (HuggingFace)](https://huggingface.co/clg-g/MedCRP-CL)
+[Paper (ICML 2026)](https://icml.cc/virtual/2026/poster/60965) · [arXiv](https://arxiv.org/abs/2605.20297) · [Checkpoint (HuggingFace)](https://huggingface.co/clg-g/MedCRP-CL)
 
 ## Abstract
 
