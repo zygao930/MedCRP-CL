@@ -2,7 +2,10 @@
 
 **Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery**
 
-[Paper (ICML 2026)](https://icml.cc/virtual/2026/poster/60965) · [arXiv](https://arxiv.org/abs/2605.20297) · [Checkpoint (HuggingFace)](https://huggingface.co/clg-g/MedCRP-CL)
+[![Paper](https://img.shields.io/badge/ICML_2026-Paper-blue)](https://icml.cc/virtual/2026/poster/60965)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.20297-b31b1b.svg)](https://arxiv.org/abs/2605.20297)
+[![Checkpoint](https://img.shields.io/badge/HuggingFace-Checkpoint-ffd21e.svg)](https://huggingface.co/clg-g/MedCRP-CL)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Abstract
 
@@ -76,6 +79,23 @@ Run evaluation:
 python scripts/inference.py checkpoints/MedCRP-CL
 ```
 
+## Citation
+ 
+If you find this work useful, please cite:
+ 
+ 
+```bibtex
+@misc{gao2026medcrpclcontinualmedicalimage,
+  title         = {MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery},
+  author        = {Ziyuan Gao},
+  year          = {2026},
+  eprint        = {2605.20297},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2605.20297}
+}
+```
+ 
 ## Acknowledgement
 
 This codebase builds upon [MedVLSM](https://github.com/naamiinepal/medvlsm) (Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models, MIDL 2024). We thank the original authors for their open-source contribution.
