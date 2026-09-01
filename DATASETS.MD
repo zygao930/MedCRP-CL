@@ -14,17 +14,23 @@
 | CheXlocalize | Chest X-ray | 7 (see below) | https://stanfordaimi.azurewebsites.net/datasets/23c56a0d-15de-405b-87c8-99c30138950c |
 | BUSI | Breast Ultrasound | 2 (see below) | https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset |
 
-## Multi-class Dataset Splitting
+## Dataset Splits and Task Construction
 
-Some source datasets contain multiple classes or subtypes. We split them into separate binary segmentation tasks to enable fine-grained continual learning evaluation.
+We follow the train/validation/test splits provided by [MedVLSM](https://github.com/naamiinepal/medvlsm) and do not perform additional random re-splitting.
 
-**CheXlocalize** is split into 7 pathology-specific tasks:
-`chex_airspace_opacity`, `chex_atelectasis`, `chex_cardiomegaly`, `chex_edema`, `chex_enlarged_cardiomediastinum`, `chex_pleural_effusion`, `chex_support_devices`
+For datasets containing multiple semantic classes or subtypes, we further partition the samples within each MedVLSM split based on the class information encoded in the annotation/image filenames, while preserving their original train/validation/test membership.
 
-**BUSI** is split into 2 tasks by tumor type:
-`busi_benign`, `busi_malignant`
+**CheXlocalize** is partitioned into 7 pathology-specific tasks according to the pathology encoded in the mask filename:
+`chex_airspace_opacity`, `chex_atelectasis`, `chex_cardiomegaly`, `chex_edema`, `chex_enlarged_cardiomediastinum`, `chex_pleural_effusion`, and `chex_support_devices`.
 
-**CAMUS** is kept as a single multi-class task (`camus`) combining LV, LA, and MYO structures.
+**BUSI** is partitioned into 2 tumor-specific tasks according to the class encoded in the filenames:
+`busi_benign` and `busi_malignant`.
+
+**CAMUS** is retained as a single multi-class task (`camus`) containing LV, LA, and MYO structures.
+
+The original MedVLSM split annotations are publicly available under:
+`data/<dataset>/anns/{train,val,test}.json`.
+
 
 ## Directory Structure
 
