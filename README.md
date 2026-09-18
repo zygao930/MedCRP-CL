@@ -7,6 +7,12 @@
 [![Checkpoint](https://img.shields.io/badge/HuggingFace-Checkpoint-ffd21e.svg)](https://huggingface.co/clg-g/MedCRP-CL)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## Update — September 18, 2026
+
+I have released the JSON annotation files used in my experiments for 15 of the 16 datasets to improve reproducibility. The released annotation files can be found in the `anns/` directory.
+
+The CVC-300 annotations are currently being re-checked to ensure consistency with the original [MedVLSM](https://github.com/naamiinepal/medvlsm) resources and the standard CVC-300 dataset. I am contacting the original authors for further clarification and will update the repository if necessary.
+
 ## Abstract
 
 Medical image segmentation faces a fundamental challenge in continual learning: data arrives sequentially from heterogeneous sources, yet effective continual learning requires discovering which tasks share sufficient structure to benefit from joint learning. Existing methods either apply uniform constraints across all tasks, causing catastrophic forgetting when tasks conflict, or require predefined task groupings that cannot anticipate future task diversity. We introduce MedCRP-CL, a framework that performs online task structure discovery and structure-aware continual learning. Leveraging the Chinese Restaurant Process (CRP), our method dynamically infers task groupings from clinical text prompts as tasks arrive, without requiring predefined cluster counts or access to future tasks. We term these discovered groupings *semantic modalities*, as they capture finer-grained structure than physical imaging modalities by integrating anatomical region and pathological context. Guided by this discovered structure, we maintain semantic modality-specific LoRA adapters regularized by intra-modality EWC, ensuring parameter isolation across dissimilar task groups while facilitating knowledge transfer within similar ones. The framework is also replay-free, storing only aggregate statistics rather than raw patient data. Experiments on 16 medical segmentation tasks across four imaging modalities demonstrate that MedCRP-CL achieves 73.3% Dice score with only 4.1% forgetting, outperforming the best baseline by 8.0% while requiring 6× fewer parameters.
