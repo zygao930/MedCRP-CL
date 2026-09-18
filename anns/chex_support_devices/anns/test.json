@@ -1,0 +1,901 @@
+[
+  {
+    "bbox": [
+      78,
+      0,
+      509,
+      466
+    ],
+    "cat": 0,
+    "segment_id": "patient64641_study1_view1_frontal",
+    "img_name": "patient64641_study1_view1_frontal.jpg",
+    "mask_name": "patient64641_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 111,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in right, top of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in right, top of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      288,
+      78,
+      618,
+      254
+    ],
+    "cat": 0,
+    "segment_id": "patient64651_study1_view1_frontal",
+    "img_name": "patient64651_study1_view1_frontal.jpg",
+    "mask_name": "patient64651_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 119,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape xbox in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape xbox, and located in top right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape xbox, and located in top right of the frontal view of a Chest Xray. Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      290,
+      1,
+      624,
+      151
+    ],
+    "cat": 0,
+    "segment_id": "patient64557_study1_view1_frontal",
+    "img_name": "patient64557_study1_view1_frontal.jpg",
+    "mask_name": "patient64557_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 125,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangle, and located in top right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangle, and located in top right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      325,
+      47,
+      608,
+      450
+    ],
+    "cat": 0,
+    "segment_id": "patient64604_study1_view1_frontal",
+    "img_name": "patient64604_study1_view1_frontal.jpg",
+    "mask_name": "patient64604_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 231,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangular, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangular, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Pneumothorax, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Pneumothorax, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      32,
+      310,
+      333
+    ],
+    "cat": 0,
+    "segment_id": "patient64566_study1_view2_lateral",
+    "img_name": "patient64566_study1_view2_lateral.jpg",
+    "mask_name": "patient64566_study1_view2_lateral_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 249,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the lateral view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the lateral view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in top of the lateral view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in top of the lateral view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      0,
+      13,
+      330,
+      447
+    ],
+    "cat": 0,
+    "segment_id": "patient64573_study1_view1_frontal",
+    "img_name": "patient64573_study1_view1_frontal.jpg",
+    "mask_name": "patient64573_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 333,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in center, left of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in center, left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      210,
+      3,
+      488,
+      441
+    ],
+    "cat": 0,
+    "segment_id": "patient64661_study1_view1_frontal",
+    "img_name": "patient64661_study1_view1_frontal.jpg",
+    "mask_name": "patient64661_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 455,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape oval, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape oval, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      92,
+      215,
+      451,
+      490
+    ],
+    "cat": 0,
+    "segment_id": "patient64620_study1_view1_frontal",
+    "img_name": "patient64620_study1_view1_frontal.jpg",
+    "mask_name": "patient64620_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 470,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape circle in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape circle, and located in bottom left, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape circle, and located in bottom left, bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      71,
+      93,
+      231,
+      458
+    ],
+    "cat": 0,
+    "segment_id": "patient64566_study1_view1_frontal",
+    "img_name": "patient64566_study1_view1_frontal.jpg",
+    "mask_name": "patient64566_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 890,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in left of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in left of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      89,
+      54,
+      260,
+      274
+    ],
+    "cat": 0,
+    "segment_id": "patient64611_study1_view1_frontal",
+    "img_name": "patient64611_study1_view1_frontal.jpg",
+    "mask_name": "patient64611_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 910,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangle, and located in top of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangle, and located in top of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      0,
+      0,
+      600,
+      492
+    ],
+    "cat": 0,
+    "segment_id": "patient64643_study1_view1_frontal",
+    "img_name": "patient64643_study1_view1_frontal.jpg",
+    "mask_name": "patient64643_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 979,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangular, and located in left, right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangular, and located in left, right of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pneumothorax, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pneumothorax, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      283,
+      1,
+      377,
+      461
+    ],
+    "cat": 0,
+    "segment_id": "patient64693_study1_view1_frontal",
+    "img_name": "patient64693_study1_view1_frontal.jpg",
+    "mask_name": "patient64693_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1055,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape circle in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape circle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape circle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      177,
+      0,
+      274,
+      344
+    ],
+    "cat": 0,
+    "segment_id": "patient64667_study1_view1_frontal",
+    "img_name": "patient64667_study1_view1_frontal.jpg",
+    "mask_name": "patient64667_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1074,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangle, and located in center of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      27,
+      3,
+      370,
+      464
+    ],
+    "cat": 0,
+    "segment_id": "patient64657_study1_view1_frontal",
+    "img_name": "patient64657_study1_view1_frontal.jpg",
+    "mask_name": "patient64657_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1277,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape square in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape square, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      0,
+      299,
+      374,
+      549
+    ],
+    "cat": 0,
+    "segment_id": "patient64705_study1_view2_lateral",
+    "img_name": "patient64705_study1_view2_lateral.jpg",
+    "mask_name": "patient64705_study1_view2_lateral_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1351,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the lateral view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the lateral view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in left, bottom left, bottom of the lateral view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in left, bottom left, bottom of the lateral view of a Chest Xray. Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      264,
+      57,
+      525,
+      200
+    ],
+    "cat": 0,
+    "segment_id": "patient64587_study1_view1_frontal",
+    "img_name": "patient64587_study1_view1_frontal.jpg",
+    "mask_name": "patient64587_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1433,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape oval, and located in top right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape oval, and located in top right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      158,
+      91,
+      466,
+      429
+    ],
+    "cat": 0,
+    "segment_id": "patient64606_study1_view1_frontal",
+    "img_name": "patient64606_study1_view1_frontal.jpg",
+    "mask_name": "patient64606_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1477,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      226,
+      99,
+      510,
+      199
+    ],
+    "cat": 0,
+    "segment_id": "patient64671_study1_view1_frontal",
+    "img_name": "patient64671_study1_view1_frontal.jpg",
+    "mask_name": "patient64671_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1491,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape oval, and located in top right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape oval, and located in top right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      0,
+      0,
+      291,
+      474
+    ],
+    "cat": 0,
+    "segment_id": "patient64623_study1_view1_frontal",
+    "img_name": "patient64623_study1_view1_frontal.jpg",
+    "mask_name": "patient64623_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1521,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangle, and located in center, left of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangle, and located in center, left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      166,
+      0,
+      417,
+      483
+    ],
+    "cat": 0,
+    "segment_id": "patient64609_study1_view1_frontal",
+    "img_name": "patient64609_study1_view1_frontal.jpg",
+    "mask_name": "patient64609_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1535,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      228,
+      0,
+      557,
+      338
+    ],
+    "cat": 0,
+    "segment_id": "patient64711_study1_view1_frontal",
+    "img_name": "patient64711_study1_view1_frontal.jpg",
+    "mask_name": "patient64711_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1624,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangle, and located in top, right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangle, and located in top, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pneumothorax, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pneumothorax, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      271,
+      88,
+      594,
+      439
+    ],
+    "cat": 0,
+    "segment_id": "patient64723_study1_view1_frontal",
+    "img_name": "patient64723_study1_view1_frontal.jpg",
+    "mask_name": "patient64723_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1818,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      71,
+      0,
+      562,
+      454
+    ],
+    "cat": 0,
+    "segment_id": "patient64666_study1_view1_frontal",
+    "img_name": "patient64666_study1_view1_frontal.jpg",
+    "mask_name": "patient64666_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1865,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in center of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      87,
+      624,
+      320
+    ],
+    "cat": 0,
+    "segment_id": "patient64662_study1_view1_frontal",
+    "img_name": "patient64662_study1_view1_frontal.jpg",
+    "mask_name": "patient64662_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1921,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape ribcage in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape ribcage, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape ribcage, and located in right of the frontal view of a Chest Xray. Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      226,
+      0,
+      408,
+      499
+    ],
+    "cat": 0,
+    "segment_id": "patient64720_study1_view1_frontal",
+    "img_name": "patient64720_study1_view1_frontal.jpg",
+    "mask_name": "patient64720_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1934,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangular, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangular, and located in center of the frontal view of a Chest Xray. Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      128,
+      55,
+      301,
+      363
+    ],
+    "cat": 0,
+    "segment_id": "patient64606_study1_view2_lateral",
+    "img_name": "patient64606_study1_view2_lateral.jpg",
+    "mask_name": "patient64606_study1_view2_lateral_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2032,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the lateral view of a Chest Xray.",
+      "p3": "Support Devices of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Support Devices of shape oval, and located in center, top left of the lateral view of a Chest Xray.",
+      "p5": "Support Devices of shape oval, and located in center, top left of the lateral view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      8,
+      39,
+      532,
+      450
+    ],
+    "cat": 0,
+    "segment_id": "patient64648_study1_view1_frontal",
+    "img_name": "patient64648_study1_view1_frontal.jpg",
+    "mask_name": "patient64648_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2069,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangular, and located in center, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangular, and located in center, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Lung Lesion, Atelectasis, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Lung Lesion, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      256,
+      29,
+      623,
+      450
+    ],
+    "cat": 0,
+    "segment_id": "patient64644_study1_view1_frontal",
+    "img_name": "patient64644_study1_view1_frontal.jpg",
+    "mask_name": "patient64644_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2102,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape rectangular, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape rectangular, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      73,
+      0,
+      300,
+      209
+    ],
+    "cat": 0,
+    "segment_id": "patient64705_study1_view1_frontal",
+    "img_name": "patient64705_study1_view1_frontal.jpg",
+    "mask_name": "patient64705_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2121,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in top of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in top of the frontal view of a Chest Xray. Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      215,
+      67,
+      558,
+      452
+    ],
+    "cat": 0,
+    "segment_id": "patient64605_study1_view1_frontal",
+    "img_name": "patient64605_study1_view1_frontal.jpg",
+    "mask_name": "patient64605_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2154,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in right of the frontal view of a Chest Xray. Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      246,
+      61,
+      592,
+      433
+    ],
+    "cat": 0,
+    "segment_id": "patient64626_study1_view1_frontal",
+    "img_name": "patient64626_study1_view1_frontal.jpg",
+    "mask_name": "patient64626_study1_view1_frontal_support_devices.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2164,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Support Devices in a chest Xray.",
+      "p2": "Support Devices in the frontal view of a Chest Xray.",
+      "p3": "Support Devices of shape round in the frontal view of a Chest Xray.",
+      "p4": "Support Devices of shape round, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Support Devices of shape round, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Support Devices in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  }
+]

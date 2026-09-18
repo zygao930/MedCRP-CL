@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      147,
+      199,
+      494,
+      447
+    ],
+    "cat": 0,
+    "segment_id": "patient64557_study1_view1_frontal",
+    "img_name": "patient64557_study1_view1_frontal.jpg",
+    "mask_name": "patient64557_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 123,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape square in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape square, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape square, and located in right, center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      75,
+      229,
+      468,
+      393
+    ],
+    "cat": 0,
+    "segment_id": "patient64573_study1_view1_frontal",
+    "img_name": "patient64573_study1_view1_frontal.jpg",
+    "mask_name": "patient64573_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 331,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape square in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape square, and located in right, left of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape square, and located in right, left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      86,
+      59,
+      474,
+      317
+    ],
+    "cat": 0,
+    "segment_id": "patient64589_study1_view1_frontal",
+    "img_name": "patient64589_study1_view1_frontal.jpg",
+    "mask_name": "patient64589_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 570,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape x ray in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape x ray, and located in left, right of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape x ray, and located in left, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      139,
+      89,
+      438,
+      333
+    ],
+    "cat": 0,
+    "segment_id": "patient64611_study1_view1_frontal",
+    "img_name": "patient64611_study1_view1_frontal.jpg",
+    "mask_name": "patient64611_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 908,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape oval, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape oval, and located in center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      163,
+      135,
+      440,
+      320
+    ],
+    "cat": 0,
+    "segment_id": "patient64643_study1_view1_frontal",
+    "img_name": "patient64643_study1_view1_frontal.jpg",
+    "mask_name": "patient64643_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 976,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape square in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape square, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape square, and located in right, center of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pneumothorax, Pleural Effusion, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pneumothorax, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      217,
+      213,
+      455,
+      396
+    ],
+    "cat": 0,
+    "segment_id": "patient64563_study1_view1_frontal",
+    "img_name": "patient64563_study1_view1_frontal.jpg",
+    "mask_name": "patient64563_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1222,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape rectangle, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape rectangle, and located in center, right of the frontal view of a Chest Xray. Lung Opacity, Edema are present.",
+      "p6": "Edema in a Chest Xray. Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      78,
+      141,
+      529,
+      462
+    ],
+    "cat": 0,
+    "segment_id": "patient64657_study1_view1_frontal",
+    "img_name": "patient64657_study1_view1_frontal.jpg",
+    "mask_name": "patient64657_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1274,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape oval, and located in right, left of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape oval, and located in right, left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      116,
+      201,
+      443,
+      411
+    ],
+    "cat": 0,
+    "segment_id": "patient64623_study1_view1_frontal",
+    "img_name": "patient64623_study1_view1_frontal.jpg",
+    "mask_name": "patient64623_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1518,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape square in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape square, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape square, and located in center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      131,
+      198,
+      477,
+      447
+    ],
+    "cat": 0,
+    "segment_id": "patient64609_study1_view1_frontal",
+    "img_name": "patient64609_study1_view1_frontal.jpg",
+    "mask_name": "patient64609_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1532,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape triangle in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape triangle, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape triangle, and located in right, center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      182,
+      205,
+      510,
+      414
+    ],
+    "cat": 0,
+    "segment_id": "patient64723_study1_view1_frontal",
+    "img_name": "patient64723_study1_view1_frontal.jpg",
+    "mask_name": "patient64723_study1_view1_frontal_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1816,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the frontal view of a Chest Xray.",
+      "p3": "Edema of shape square in the frontal view of a Chest Xray.",
+      "p4": "Edema of shape square, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Edema of shape square, and located in right, center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      168,
+      130,
+      406,
+      390
+    ],
+    "cat": 0,
+    "segment_id": "patient64589_study1_view2_lateral",
+    "img_name": "patient64589_study1_view2_lateral.jpg",
+    "mask_name": "patient64589_study1_view2_lateral_edema.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2018,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Edema in a chest Xray.",
+      "p2": "Edema in the lateral view of a Chest Xray.",
+      "p3": "Edema of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Edema of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Edema of shape oval, and located in center of the lateral view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present.",
+      "p6": "Edema in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present. "
+    }
+  }
+]

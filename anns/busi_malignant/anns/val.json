@@ -1,0 +1,926 @@
+[
+  {
+    "bbox": [
+      38,
+      111,
+      348,
+      311
+    ],
+    "cat": 0,
+    "segment_id": "111_malignant",
+    "img_name": "111_malignant.png",
+    "mask_name": "111_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 37,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "Two malignant tumors in the breast ultrasound image.",
+        "Two irregular-shaped tumors in the breast ultrasound image."
+      ],
+      "p4": [
+        "Two medium malignant tumors in the breast ultrasound image.",
+        "Two medium irregular-shaped tumors in the breast ultrasound image."
+      ],
+      "p5": [
+        "Two medium malignant tumors at the center, left in the breast ultrasound image.",
+        "Two medium irregular-shaped tumors at the center, left in the breast ultrasound image."
+      ],
+      "p6": [
+        "Two medium square-shaped malignant tumors at the center, left in the breast ultrasound image.",
+        "Two medium square-shaped irregular tumors at the center, left in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      346,
+      83,
+      431,
+      148
+    ],
+    "cat": 0,
+    "segment_id": "121_malignant",
+    "img_name": "121_malignant.png",
+    "mask_name": "121_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 70,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One small malignant tumor in the breast ultrasound image.",
+        "One small irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One small malignant tumor at the top right in the breast ultrasound image.",
+        "One small irregular-shaped tumor at the top right in the breast ultrasound image."
+      ],
+      "p6": [
+        "One small square-shaped malignant tumor at the top right in the breast ultrasound image.",
+        "One small square-shaped irregular tumor at the top right in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      31,
+      120,
+      415,
+      424
+    ],
+    "cat": 0,
+    "segment_id": "132_malignant",
+    "img_name": "132_malignant.png",
+    "mask_name": "132_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 106,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One large malignant tumor in the breast ultrasound image.",
+        "One large irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One large malignant tumor at the center in the breast ultrasound image.",
+        "One large irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One large square-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One large square-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      0,
+      53,
+      392,
+      361
+    ],
+    "cat": 0,
+    "segment_id": "133_malignant",
+    "img_name": "133_malignant.png",
+    "mask_name": "133_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 109,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One large malignant tumor in the breast ultrasound image.",
+        "One large irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One large malignant tumor at the center in the breast ultrasound image.",
+        "One large irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One large circle-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One large circle-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      207,
+      77,
+      489,
+      337
+    ],
+    "cat": 0,
+    "segment_id": "151_malignant",
+    "img_name": "151_malignant.png",
+    "mask_name": "151_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 152,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the right in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the right in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium square-shaped malignant tumor at the right in the breast ultrasound image.",
+        "One medium square-shaped irregular tumor at the right in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      25,
+      112,
+      297,
+      295
+    ],
+    "cat": 0,
+    "segment_id": "158_malignant",
+    "img_name": "158_malignant.png",
+    "mask_name": "158_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 166,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the center in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium square-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One medium square-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      170,
+      8,
+      630,
+      313
+    ],
+    "cat": 0,
+    "segment_id": "161_malignant",
+    "img_name": "161_malignant.png",
+    "mask_name": "161_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 175,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the top right in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the top right in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium circle-shaped malignant tumor at the top right in the breast ultrasound image.",
+        "One medium circle-shaped irregular tumor at the top right in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      83,
+      26,
+      395,
+      255
+    ],
+    "cat": 0,
+    "segment_id": "184_malignant",
+    "img_name": "184_malignant.png",
+    "mask_name": "184_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 227,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the top in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the top in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium triangle-shaped malignant tumor at the top in the breast ultrasound image.",
+        "One medium triangle-shaped irregular tumor at the top in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      283,
+      73,
+      442,
+      131
+    ],
+    "cat": 0,
+    "segment_id": "192_malignant",
+    "img_name": "192_malignant.png",
+    "mask_name": "192_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 246,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One small malignant tumor in the breast ultrasound image.",
+        "One small irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One small malignant tumor at the top right in the breast ultrasound image.",
+        "One small irregular-shaped tumor at the top right in the breast ultrasound image."
+      ],
+      "p6": [
+        "One small circle-shaped malignant tumor at the top right in the breast ultrasound image.",
+        "One small circle-shaped irregular tumor at the top right in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      270,
+      101,
+      443,
+      233
+    ],
+    "cat": 0,
+    "segment_id": "193_malignant",
+    "img_name": "193_malignant.png",
+    "mask_name": "193_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 248,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One small malignant tumor in the breast ultrasound image.",
+        "One small irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One small malignant tumor at the top in the breast ultrasound image.",
+        "One small irregular-shaped tumor at the top in the breast ultrasound image."
+      ],
+      "p6": [
+        "One small circle-shaped malignant tumor at the top in the breast ultrasound image.",
+        "One small circle-shaped irregular tumor at the top in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      66,
+      92,
+      396,
+      345
+    ],
+    "cat": 0,
+    "segment_id": "19_malignant",
+    "img_name": "19_malignant.png",
+    "mask_name": "19_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 262,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "Three malignant tumors in the breast ultrasound image.",
+        "Three irregular-shaped tumors in the breast ultrasound image."
+      ],
+      "p4": [
+        "Three medium malignant tumors in the breast ultrasound image.",
+        "Three medium irregular-shaped tumors in the breast ultrasound image."
+      ],
+      "p5": [
+        "Three medium malignant tumors at the center, top right, right in the breast ultrasound image.",
+        "Three medium irregular-shaped tumors at the center, top right, right in the breast ultrasound image."
+      ],
+      "p6": [
+        "Three medium circle-shaped malignant tumors at the center, top right, right in the breast ultrasound image.",
+        "Three medium circle-shaped irregular tumors at the center, top right, right in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      21,
+      136,
+      526,
+      513
+    ],
+    "cat": 0,
+    "segment_id": "206_malignant",
+    "img_name": "206_malignant.png",
+    "mask_name": "206_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 280,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One large malignant tumor in the breast ultrasound image.",
+        "One large irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One large malignant tumor at the center in the breast ultrasound image.",
+        "One large irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One large square-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One large square-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      111,
+      88,
+      456,
+      372
+    ],
+    "cat": 0,
+    "segment_id": "24_malignant",
+    "img_name": "24_malignant.png",
+    "mask_name": "24_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 341,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the center in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium circle-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One medium circle-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      367,
+      96,
+      510,
+      195
+    ],
+    "cat": 0,
+    "segment_id": "28_malignant",
+    "img_name": "28_malignant.png",
+    "mask_name": "28_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 393,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "Two malignant tumors in the breast ultrasound image.",
+        "Two irregular-shaped tumors in the breast ultrasound image."
+      ],
+      "p4": [
+        "Two small malignant tumors in the breast ultrasound image.",
+        "Two small irregular-shaped tumors in the breast ultrasound image."
+      ],
+      "p5": [
+        "Two small malignant tumors at the top right, top right in the breast ultrasound image.",
+        "Two small irregular-shaped tumors at the top right, top right in the breast ultrasound image."
+      ],
+      "p6": [
+        "Two small circle-shaped malignant tumors at the top right, top right in the breast ultrasound image.",
+        "Two small circle-shaped irregular tumors at the top right, top right in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      243,
+      107,
+      399,
+      269
+    ],
+    "cat": 0,
+    "segment_id": "34_malignant",
+    "img_name": "34_malignant.png",
+    "mask_name": "34_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 474,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One small malignant tumor in the breast ultrasound image.",
+        "One small irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One small malignant tumor at the top in the breast ultrasound image.",
+        "One small irregular-shaped tumor at the top in the breast ultrasound image."
+      ],
+      "p6": [
+        "One small circle-shaped malignant tumor at the top in the breast ultrasound image.",
+        "One small circle-shaped irregular tumor at the top in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      77,
+      149,
+      230,
+      291
+    ],
+    "cat": 0,
+    "segment_id": "3_malignant",
+    "img_name": "3_malignant.png",
+    "mask_name": "3_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 542,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One small malignant tumor in the breast ultrasound image.",
+        "One small irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One small malignant tumor at the left in the breast ultrasound image.",
+        "One small irregular-shaped tumor at the left in the breast ultrasound image."
+      ],
+      "p6": [
+        "One small circle-shaped malignant tumor at the left in the breast ultrasound image.",
+        "One small circle-shaped irregular tumor at the left in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      100,
+      247,
+      471,
+      566
+    ],
+    "cat": 0,
+    "segment_id": "45_malignant",
+    "img_name": "45_malignant.png",
+    "mask_name": "45_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 598,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the bottom in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the bottom in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium circle-shaped malignant tumor at the bottom in the breast ultrasound image.",
+        "One medium circle-shaped irregular tumor at the bottom in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      40,
+      151,
+      517,
+      427
+    ],
+    "cat": 0,
+    "segment_id": "59_malignant",
+    "img_name": "59_malignant.png",
+    "mask_name": "59_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 643,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the center in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium circle-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One medium circle-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      61,
+      96,
+      366,
+      256
+    ],
+    "cat": 0,
+    "segment_id": "82_malignant",
+    "img_name": "82_malignant.png",
+    "mask_name": "82_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 721,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the center in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium a rectangle-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One medium a rectangle-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      242,
+      194,
+      460,
+      363
+    ],
+    "cat": 0,
+    "segment_id": "83_malignant",
+    "img_name": "83_malignant.png",
+    "mask_name": "83_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 724,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One small malignant tumor in the breast ultrasound image.",
+        "One small irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One small malignant tumor at the center in the breast ultrasound image.",
+        "One small irregular-shaped tumor at the center in the breast ultrasound image."
+      ],
+      "p6": [
+        "One small circle-shaped malignant tumor at the center in the breast ultrasound image.",
+        "One small circle-shaped irregular tumor at the center in the breast ultrasound image."
+      ]
+    }
+  },
+  {
+    "bbox": [
+      162,
+      130,
+      634,
+      355
+    ],
+    "cat": 0,
+    "segment_id": "85_malignant",
+    "img_name": "85_malignant.png",
+    "mask_name": "85_malignant.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 730,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Tumor in the breast ultrasound image.",
+      "p2": [
+        "Malignant tumor in the breast ultrasound image.",
+        "Irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p3": [
+        "One malignant tumor in the breast ultrasound image.",
+        "One irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p4": [
+        "One medium malignant tumor in the breast ultrasound image.",
+        "One medium irregular-shaped tumor in the breast ultrasound image."
+      ],
+      "p5": [
+        "One medium malignant tumor at the right in the breast ultrasound image.",
+        "One medium irregular-shaped tumor at the right in the breast ultrasound image."
+      ],
+      "p6": [
+        "One medium circle-shaped malignant tumor at the right in the breast ultrasound image.",
+        "One medium circle-shaped irregular tumor at the right in the breast ultrasound image."
+      ]
+    }
+  }
+]

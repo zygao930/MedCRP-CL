@@ -1,0 +1,2177 @@
+[
+  {
+    "bbox": [
+      274,
+      333,
+      373,
+      428
+    ],
+    "cat": 0,
+    "segment_id": "patient64547_study1_view3_lateral",
+    "img_name": "patient64547_study1_view3_lateral.jpg",
+    "mask_name": "patient64547_study1_view3_lateral_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 80,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the lateral view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray. Lung Opacity, Pneumothorax are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Pneumothorax are present. "
+    }
+  },
+  {
+    "bbox": [
+      281,
+      216,
+      478,
+      392
+    ],
+    "cat": 0,
+    "segment_id": "patient64660_study1_view1_frontal",
+    "img_name": "patient64660_study1_view1_frontal.jpg",
+    "mask_name": "patient64660_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 126,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      328,
+      234,
+      567,
+      398
+    ],
+    "cat": 0,
+    "segment_id": "patient64632_study1_view1_frontal",
+    "img_name": "patient64632_study1_view1_frontal.jpg",
+    "mask_name": "patient64632_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 131,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray. Lung Opacity, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      343,
+      227,
+      549,
+      394
+    ],
+    "cat": 0,
+    "segment_id": "patient64722_study1_view1_frontal",
+    "img_name": "patient64722_study1_view1_frontal.jpg",
+    "mask_name": "patient64722_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 133,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      296,
+      283,
+      505,
+      483
+    ],
+    "cat": 0,
+    "segment_id": "patient64569_study1_view1_frontal",
+    "img_name": "patient64569_study1_view1_frontal.jpg",
+    "mask_name": "patient64569_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 159,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      112,
+      23,
+      280,
+      198
+    ],
+    "cat": 0,
+    "segment_id": "patient64653_study1_view1_frontal",
+    "img_name": "patient64653_study1_view1_frontal.jpg",
+    "mask_name": "patient64653_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 203,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in top of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in top of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Consolidation, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Consolidation, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      308,
+      267,
+      499,
+      410
+    ],
+    "cat": 0,
+    "segment_id": "patient64725_study1_view1_frontal",
+    "img_name": "patient64725_study1_view1_frontal.jpg",
+    "mask_name": "patient64725_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 240,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      151,
+      263,
+      463,
+      412
+    ],
+    "cat": 0,
+    "segment_id": "patient64704_study1_view1_frontal",
+    "img_name": "patient64704_study1_view1_frontal.jpg",
+    "mask_name": "patient64704_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 268,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right, center of the frontal view of a Chest Xray. Lung Opacity, Consolidation, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Consolidation, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      351,
+      209,
+      523,
+      396
+    ],
+    "cat": 0,
+    "segment_id": "patient64684_study1_view1_frontal",
+    "img_name": "patient64684_study1_view1_frontal.jpg",
+    "mask_name": "patient64684_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 312,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      13,
+      277,
+      459,
+      427
+    ],
+    "cat": 0,
+    "segment_id": "patient64738_study1_view1_frontal",
+    "img_name": "patient64738_study1_view1_frontal.jpg",
+    "mask_name": "patient64738_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 325,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in bottom left, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in bottom left, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      59,
+      301,
+      543,
+      431
+    ],
+    "cat": 0,
+    "segment_id": "patient64598_study1_view1_frontal",
+    "img_name": "patient64598_study1_view1_frontal.jpg",
+    "mask_name": "patient64598_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 380,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right, bottom left of the frontal view of a Chest Xray. Lung Opacity are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity are present. "
+    }
+  },
+  {
+    "bbox": [
+      74,
+      238,
+      570,
+      410
+    ],
+    "cat": 0,
+    "segment_id": "patient64610_study1_view1_frontal",
+    "img_name": "patient64610_study1_view1_frontal.jpg",
+    "mask_name": "patient64610_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 414,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in right, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in right, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      183,
+      266,
+      520,
+      432
+    ],
+    "cat": 0,
+    "segment_id": "patient64561_study1_view1_frontal",
+    "img_name": "patient64561_study1_view1_frontal.jpg",
+    "mask_name": "patient64561_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 459,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in center, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in center, bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      170,
+      231,
+      517,
+      402
+    ],
+    "cat": 0,
+    "segment_id": "patient64733_study1_view1_frontal",
+    "img_name": "patient64733_study1_view1_frontal.jpg",
+    "mask_name": "patient64733_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 477,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      267,
+      257,
+      498,
+      417
+    ],
+    "cat": 0,
+    "segment_id": "patient64634_study1_view1_frontal",
+    "img_name": "patient64634_study1_view1_frontal.jpg",
+    "mask_name": "patient64634_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 503,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      332,
+      229,
+      496,
+      372
+    ],
+    "cat": 0,
+    "segment_id": "patient64640_study1_view1_frontal",
+    "img_name": "patient64640_study1_view1_frontal.jpg",
+    "mask_name": "patient64640_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 522,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      118,
+      232,
+      256,
+      343
+    ],
+    "cat": 0,
+    "segment_id": "patient64642_study1_view1_frontal",
+    "img_name": "patient64642_study1_view1_frontal.jpg",
+    "mask_name": "patient64642_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 553,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      43,
+      229,
+      234,
+      345
+    ],
+    "cat": 0,
+    "segment_id": "patient64608_study1_view1_frontal",
+    "img_name": "patient64608_study1_view1_frontal.jpg",
+    "mask_name": "patient64608_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 586,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in left of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      332,
+      302,
+      588,
+      471
+    ],
+    "cat": 0,
+    "segment_id": "patient64639_study1_view1_frontal",
+    "img_name": "patient64639_study1_view1_frontal.jpg",
+    "mask_name": "patient64639_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 620,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      72,
+      271,
+      604,
+      406
+    ],
+    "cat": 0,
+    "segment_id": "patient64607_study1_view1_frontal",
+    "img_name": "patient64607_study1_view1_frontal.jpg",
+    "mask_name": "patient64607_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 628,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape triangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape triangle, and located in right, left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape triangle, and located in right, left of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      76,
+      235,
+      532,
+      399
+    ],
+    "cat": 0,
+    "segment_id": "patient64715_study1_view1_frontal",
+    "img_name": "patient64715_study1_view1_frontal.jpg",
+    "mask_name": "patient64715_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 637,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in left, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in left, right of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      70,
+      406,
+      97,
+      440
+    ],
+    "cat": 0,
+    "segment_id": "patient64547_study1_view2_frontal",
+    "img_name": "patient64547_study1_view2_frontal.jpg",
+    "mask_name": "patient64547_study1_view2_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 670,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in bottom left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in bottom left of the frontal view of a Chest Xray. Lung Opacity, Pneumothorax are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Pneumothorax are present. "
+    }
+  },
+  {
+    "bbox": [
+      358,
+      275,
+      503,
+      406
+    ],
+    "cat": 0,
+    "segment_id": "patient64545_study1_view1_frontal",
+    "img_name": "patient64545_study1_view1_frontal.jpg",
+    "mask_name": "patient64545_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 686,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      81,
+      91,
+      412,
+      402
+    ],
+    "cat": 0,
+    "segment_id": "patient64570_study1_view1_frontal",
+    "img_name": "patient64570_study1_view1_frontal.jpg",
+    "mask_name": "patient64570_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 710,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in top, left, left, right, bottom of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in top, left, left, right, bottom of the frontal view of a Chest Xray. Lung Opacity are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity are present. "
+    }
+  },
+  {
+    "bbox": [
+      320,
+      251,
+      450,
+      453
+    ],
+    "cat": 0,
+    "segment_id": "patient64640_study1_view2_lateral",
+    "img_name": "patient64640_study1_view2_lateral.jpg",
+    "mask_name": "patient64640_study1_view2_lateral_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 742,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the lateral view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      153,
+      247,
+      461,
+      411
+    ],
+    "cat": 0,
+    "segment_id": "patient64636_study1_view1_frontal",
+    "img_name": "patient64636_study1_view1_frontal.jpg",
+    "mask_name": "patient64636_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 757,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right, center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      350,
+      233,
+      504,
+      360
+    ],
+    "cat": 0,
+    "segment_id": "patient64691_study1_view1_frontal",
+    "img_name": "patient64691_study1_view1_frontal.jpg",
+    "mask_name": "patient64691_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 774,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      38,
+      288,
+      483,
+      440
+    ],
+    "cat": 0,
+    "segment_id": "patient64546_study1_view1_frontal",
+    "img_name": "patient64546_study1_view1_frontal.jpg",
+    "mask_name": "patient64546_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 784,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      430,
+      128,
+      505,
+      263
+    ],
+    "cat": 0,
+    "segment_id": "patient64602_study1_view1_frontal",
+    "img_name": "patient64602_study1_view1_frontal.jpg",
+    "mask_name": "patient64602_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 795,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in top right, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in top right, right of the frontal view of a Chest Xray. Lung Opacity, Pneumothorax are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Pneumothorax are present. "
+    }
+  },
+  {
+    "bbox": [
+      220,
+      250,
+      562,
+      409
+    ],
+    "cat": 0,
+    "segment_id": "patient64668_study1_view1_frontal",
+    "img_name": "patient64668_study1_view1_frontal.jpg",
+    "mask_name": "patient64668_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 821,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in center, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in center, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      338,
+      281,
+      450,
+      411
+    ],
+    "cat": 0,
+    "segment_id": "patient64560_study1_view1_frontal",
+    "img_name": "patient64560_study1_view1_frontal.jpg",
+    "mask_name": "patient64560_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 834,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      384,
+      207,
+      609,
+      398
+    ],
+    "cat": 0,
+    "segment_id": "patient64655_study1_view1_frontal",
+    "img_name": "patient64655_study1_view1_frontal.jpg",
+    "mask_name": "patient64655_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 849,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      139,
+      252,
+      581,
+      473
+    ],
+    "cat": 0,
+    "segment_id": "patient64701_study1_view1_frontal",
+    "img_name": "patient64701_study1_view1_frontal.jpg",
+    "mask_name": "patient64701_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 861,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in center, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in center, bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      256,
+      264,
+      347,
+      408
+    ],
+    "cat": 0,
+    "segment_id": "patient64570_study1_view2_lateral",
+    "img_name": "patient64570_study1_view2_lateral.jpg",
+    "mask_name": "patient64570_study1_view2_lateral_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 869,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the lateral view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray. Lung Opacity are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity are present. "
+    }
+  },
+  {
+    "bbox": [
+      345,
+      263,
+      419,
+      435
+    ],
+    "cat": 0,
+    "segment_id": "patient64601_study1_view1_frontal",
+    "img_name": "patient64601_study1_view1_frontal.jpg",
+    "mask_name": "patient64601_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 925,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Edema are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      212,
+      190,
+      470,
+      347
+    ],
+    "cat": 0,
+    "segment_id": "patient64635_study1_view1_frontal",
+    "img_name": "patient64635_study1_view1_frontal.jpg",
+    "mask_name": "patient64635_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 966,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      298,
+      238,
+      498,
+      394
+    ],
+    "cat": 0,
+    "segment_id": "patient64683_study1_view1_frontal",
+    "img_name": "patient64683_study1_view1_frontal.jpg",
+    "mask_name": "patient64683_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1056,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      355,
+      298,
+      515,
+      372
+    ],
+    "cat": 0,
+    "segment_id": "patient64571_study1_view1_frontal",
+    "img_name": "patient64571_study1_view1_frontal.jpg",
+    "mask_name": "patient64571_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1076,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      52,
+      31,
+      436,
+      418
+    ],
+    "cat": 0,
+    "segment_id": "patient64555_study1_view1_frontal",
+    "img_name": "patient64555_study1_view1_frontal.jpg",
+    "mask_name": "patient64555_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1082,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in left, top right, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in left, top right, right of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      114,
+      121,
+      554,
+      350
+    ],
+    "cat": 0,
+    "segment_id": "patient64698_study1_view1_frontal",
+    "img_name": "patient64698_study1_view1_frontal.jpg",
+    "mask_name": "patient64698_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1093,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right, center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      88,
+      224,
+      305,
+      421
+    ],
+    "cat": 0,
+    "segment_id": "patient64649_study1_view1_frontal",
+    "img_name": "patient64649_study1_view1_frontal.jpg",
+    "mask_name": "patient64649_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1128,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      331,
+      358,
+      425,
+      482
+    ],
+    "cat": 0,
+    "segment_id": "patient64560_study1_view2_lateral",
+    "img_name": "patient64560_study1_view2_lateral.jpg",
+    "mask_name": "patient64560_study1_view2_lateral_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1142,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the lateral view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape oval, and located in bottom of the lateral view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape oval, and located in bottom of the lateral view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      426,
+      321,
+      540,
+      420
+    ],
+    "cat": 0,
+    "segment_id": "patient64541_study1_view1_frontal",
+    "img_name": "patient64541_study1_view1_frontal.jpg",
+    "mask_name": "patient64541_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1172,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity are present. "
+    }
+  },
+  {
+    "bbox": [
+      134,
+      277,
+      535,
+      472
+    ],
+    "cat": 0,
+    "segment_id": "patient64702_study1_view1_frontal",
+    "img_name": "patient64702_study1_view1_frontal.jpg",
+    "mask_name": "patient64702_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1175,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right, center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right, center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      312,
+      232,
+      515,
+      423
+    ],
+    "cat": 0,
+    "segment_id": "patient64689_study1_view1_frontal",
+    "img_name": "patient64689_study1_view1_frontal.jpg",
+    "mask_name": "patient64689_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1181,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      314,
+      295,
+      418,
+      407
+    ],
+    "cat": 0,
+    "segment_id": "patient64619_study1_view1_frontal",
+    "img_name": "patient64619_study1_view1_frontal.jpg",
+    "mask_name": "patient64619_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1217,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      129,
+      85,
+      427,
+      370
+    ],
+    "cat": 0,
+    "segment_id": "patient64583_study1_view1_frontal",
+    "img_name": "patient64583_study1_view1_frontal.jpg",
+    "mask_name": "patient64583_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1229,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in center, top right, center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in center, top right, center of the frontal view of a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      280,
+      259,
+      401,
+      400
+    ],
+    "cat": 0,
+    "segment_id": "patient64732_study1_view1_frontal",
+    "img_name": "patient64732_study1_view1_frontal.jpg",
+    "mask_name": "patient64732_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1250,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      127,
+      60,
+      465,
+      418
+    ],
+    "cat": 0,
+    "segment_id": "patient64603_study1_view1_frontal",
+    "img_name": "patient64603_study1_view1_frontal.jpg",
+    "mask_name": "patient64603_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1289,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in top, bottom, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in top, bottom, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      131,
+      249,
+      269,
+      378
+    ],
+    "cat": 0,
+    "segment_id": "patient64735_study1_view1_frontal",
+    "img_name": "patient64735_study1_view1_frontal.jpg",
+    "mask_name": "patient64735_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1347,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in center of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      96,
+      286,
+      493,
+      459
+    ],
+    "cat": 0,
+    "segment_id": "patient64697_study1_view1_frontal",
+    "img_name": "patient64697_study1_view1_frontal.jpg",
+    "mask_name": "patient64697_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1368,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in bottom right, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in bottom right, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      291,
+      316,
+      492,
+      426
+    ],
+    "cat": 0,
+    "segment_id": "patient64608_study1_view2_lateral",
+    "img_name": "patient64608_study1_view2_lateral.jpg",
+    "mask_name": "patient64608_study1_view2_lateral_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1427,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the lateral view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape oval, and located in center of the lateral view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      132,
+      256,
+      271,
+      357
+    ],
+    "cat": 0,
+    "segment_id": "patient64650_study1_view1_frontal",
+    "img_name": "patient64650_study1_view1_frontal.jpg",
+    "mask_name": "patient64650_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1444,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      307,
+      269,
+      605,
+      418
+    ],
+    "cat": 0,
+    "segment_id": "patient64592_study1_view1_frontal",
+    "img_name": "patient64592_study1_view1_frontal.jpg",
+    "mask_name": "patient64592_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1464,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      339,
+      289,
+      549,
+      453
+    ],
+    "cat": 0,
+    "segment_id": "patient64675_study1_view1_frontal",
+    "img_name": "patient64675_study1_view1_frontal.jpg",
+    "mask_name": "patient64675_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1471,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      60,
+      226,
+      156,
+      404
+    ],
+    "cat": 0,
+    "segment_id": "patient64543_study1_view1_frontal",
+    "img_name": "patient64543_study1_view1_frontal.jpg",
+    "mask_name": "patient64543_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1482,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangular, and located in left, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangular, and located in left, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      207,
+      323,
+      534,
+      450
+    ],
+    "cat": 0,
+    "segment_id": "patient64547_study1_view1_frontal",
+    "img_name": "patient64547_study1_view1_frontal.jpg",
+    "mask_name": "patient64547_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1512,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in bottom right, bottom of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in bottom right, bottom of the frontal view of a Chest Xray. Lung Opacity, Pneumothorax are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Pneumothorax are present. "
+    }
+  },
+  {
+    "bbox": [
+      317,
+      244,
+      519,
+      410
+    ],
+    "cat": 0,
+    "segment_id": "patient64582_study1_view1_frontal",
+    "img_name": "patient64582_study1_view1_frontal.jpg",
+    "mask_name": "patient64582_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1580,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      199,
+      286,
+      548,
+      503
+    ],
+    "cat": 0,
+    "segment_id": "patient64670_study1_view1_frontal",
+    "img_name": "patient64670_study1_view1_frontal.jpg",
+    "mask_name": "patient64670_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1591,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in bottom right, bottom of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in bottom right, bottom of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      119,
+      239,
+      518,
+      409
+    ],
+    "cat": 0,
+    "segment_id": "patient64703_study1_view1_frontal",
+    "img_name": "patient64703_study1_view1_frontal.jpg",
+    "mask_name": "patient64703_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1634,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in center, right of the frontal view of a Chest Xray. Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      298,
+      213,
+      481,
+      346
+    ],
+    "cat": 0,
+    "segment_id": "patient64622_study1_view1_frontal",
+    "img_name": "patient64622_study1_view1_frontal.jpg",
+    "mask_name": "patient64622_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1686,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      373,
+      296,
+      514,
+      415
+    ],
+    "cat": 0,
+    "segment_id": "patient64614_study1_view1_frontal",
+    "img_name": "patient64614_study1_view1_frontal.jpg",
+    "mask_name": "patient64614_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1751,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      96,
+      148,
+      451,
+      375
+    ],
+    "cat": 0,
+    "segment_id": "patient64552_study1_view1_frontal",
+    "img_name": "patient64552_study1_view1_frontal.jpg",
+    "mask_name": "patient64552_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1758,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right, left of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right, left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      153,
+      169,
+      534,
+      380
+    ],
+    "cat": 0,
+    "segment_id": "patient64688_study1_view1_frontal",
+    "img_name": "patient64688_study1_view1_frontal.jpg",
+    "mask_name": "patient64688_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1768,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      337,
+      235,
+      486,
+      370
+    ],
+    "cat": 0,
+    "segment_id": "patient64712_study1_view1_frontal",
+    "img_name": "patient64712_study1_view1_frontal.jpg",
+    "mask_name": "patient64712_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1776,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      310,
+      235,
+      469,
+      371
+    ],
+    "cat": 0,
+    "segment_id": "patient64659_study1_view1_frontal",
+    "img_name": "patient64659_study1_view1_frontal.jpg",
+    "mask_name": "patient64659_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1808,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      369,
+      275,
+      535,
+      387
+    ],
+    "cat": 0,
+    "segment_id": "patient64699_study1_view1_frontal",
+    "img_name": "patient64699_study1_view1_frontal.jpg",
+    "mask_name": "patient64699_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1812,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      264,
+      216,
+      449,
+      372
+    ],
+    "cat": 0,
+    "segment_id": "patient64596_study1_view1_frontal",
+    "img_name": "patient64596_study1_view1_frontal.jpg",
+    "mask_name": "patient64596_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1819,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Pleural Effusion are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      313,
+      362,
+      445,
+      431
+    ],
+    "cat": 0,
+    "segment_id": "patient64658_study1_view1_frontal",
+    "img_name": "patient64658_study1_view1_frontal.jpg",
+    "mask_name": "patient64658_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1871,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      242,
+      119,
+      539,
+      338
+    ],
+    "cat": 0,
+    "segment_id": "patient64638_study1_view1_frontal",
+    "img_name": "patient64638_study1_view1_frontal.jpg",
+    "mask_name": "patient64638_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1883,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right, center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right, center of the frontal view of a Chest Xray. Lung Opacity are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity are present. "
+    }
+  },
+  {
+    "bbox": [
+      97,
+      55,
+      308,
+      438
+    ],
+    "cat": 0,
+    "segment_id": "patient64652_study1_view1_frontal",
+    "img_name": "patient64652_study1_view1_frontal.jpg",
+    "mask_name": "patient64652_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1899,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion, Pleural Other, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion, Pleural Other, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      74,
+      227,
+      474,
+      456
+    ],
+    "cat": 0,
+    "segment_id": "patient64672_study1_view1_frontal",
+    "img_name": "patient64672_study1_view1_frontal.jpg",
+    "mask_name": "patient64672_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1935,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in bottom left, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in bottom left, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      108,
+      77,
+      491,
+      387
+    ],
+    "cat": 0,
+    "segment_id": "patient64656_study1_view1_frontal",
+    "img_name": "patient64656_study1_view1_frontal.jpg",
+    "mask_name": "patient64656_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2009,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape square in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape square, and located in top, center, right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape square, and located in top, center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      287,
+      207,
+      428,
+      361
+    ],
+    "cat": 0,
+    "segment_id": "patient64624_study1_view1_frontal",
+    "img_name": "patient64624_study1_view1_frontal.jpg",
+    "mask_name": "patient64624_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2033,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      389,
+      219,
+      609,
+      373
+    ],
+    "cat": 0,
+    "segment_id": "patient64674_study1_view1_frontal",
+    "img_name": "patient64674_study1_view1_frontal.jpg",
+    "mask_name": "patient64674_study1_view1_frontal_airspace_opacity.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2085,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Airspace Opacity in a chest Xray.",
+      "p2": "Airspace Opacity in the frontal view of a Chest Xray.",
+      "p3": "Airspace Opacity of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Airspace Opacity of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Airspace Opacity in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  }
+]

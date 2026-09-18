@@ -1,0 +1,1655 @@
+[
+  {
+    "bbox": [
+      249,
+      6,
+      402,
+      397
+    ],
+    "cat": 0,
+    "segment_id": "patient64682_study1_view1_frontal",
+    "img_name": "patient64682_study1_view1_frontal.jpg",
+    "mask_name": "patient64682_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 78,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      208,
+      119,
+      440,
+      367
+    ],
+    "cat": 0,
+    "segment_id": "patient64660_study1_view1_frontal",
+    "img_name": "patient64660_study1_view1_frontal.jpg",
+    "mask_name": "patient64660_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 129,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape square in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape square, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      251,
+      119,
+      538,
+      437
+    ],
+    "cat": 0,
+    "segment_id": "patient64722_study1_view1_frontal",
+    "img_name": "patient64722_study1_view1_frontal.jpg",
+    "mask_name": "patient64722_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 137,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      191,
+      173,
+      494,
+      498
+    ],
+    "cat": 0,
+    "segment_id": "patient64569_study1_view1_frontal",
+    "img_name": "patient64569_study1_view1_frontal.jpg",
+    "mask_name": "patient64569_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 162,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      197,
+      85,
+      433,
+      380
+    ],
+    "cat": 0,
+    "segment_id": "patient64653_study1_view1_frontal",
+    "img_name": "patient64653_study1_view1_frontal.jpg",
+    "mask_name": "patient64653_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 205,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Consolidation, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Consolidation, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      240,
+      80,
+      406,
+      420
+    ],
+    "cat": 0,
+    "segment_id": "patient64726_study1_view1_frontal",
+    "img_name": "patient64726_study1_view1_frontal.jpg",
+    "mask_name": "patient64726_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 210,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      127,
+      510,
+      380
+    ],
+    "cat": 0,
+    "segment_id": "patient64684_study1_view1_frontal",
+    "img_name": "patient64684_study1_view1_frontal.jpg",
+    "mask_name": "patient64684_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 316,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      138,
+      83,
+      473,
+      453
+    ],
+    "cat": 0,
+    "segment_id": "patient64738_study1_view1_frontal",
+    "img_name": "patient64738_study1_view1_frontal.jpg",
+    "mask_name": "patient64738_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 328,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      217,
+      107,
+      577,
+      442
+    ],
+    "cat": 0,
+    "segment_id": "patient64610_study1_view1_frontal",
+    "img_name": "patient64610_study1_view1_frontal.jpg",
+    "mask_name": "patient64610_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 417,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape heart in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape heart, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape heart, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      175,
+      78,
+      449,
+      406
+    ],
+    "cat": 0,
+    "segment_id": "patient64733_study1_view1_frontal",
+    "img_name": "patient64733_study1_view1_frontal.jpg",
+    "mask_name": "patient64733_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 479,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      143,
+      153,
+      355,
+      481
+    ],
+    "cat": 0,
+    "segment_id": "patient64634_study1_view1_frontal",
+    "img_name": "patient64634_study1_view1_frontal.jpg",
+    "mask_name": "patient64634_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 504,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      275,
+      132,
+      410,
+      389
+    ],
+    "cat": 0,
+    "segment_id": "patient64640_study1_view1_frontal",
+    "img_name": "patient64640_study1_view1_frontal.jpg",
+    "mask_name": "patient64640_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 526,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      182,
+      155,
+      442,
+      468
+    ],
+    "cat": 0,
+    "segment_id": "patient64739_study1_view1_frontal",
+    "img_name": "patient64739_study1_view1_frontal.jpg",
+    "mask_name": "patient64739_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 536,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum are present. "
+    }
+  },
+  {
+    "bbox": [
+      169,
+      85,
+      454,
+      359
+    ],
+    "cat": 0,
+    "segment_id": "patient64642_study1_view1_frontal",
+    "img_name": "patient64642_study1_view1_frontal.jpg",
+    "mask_name": "patient64642_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 556,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      236,
+      31,
+      553,
+      357
+    ],
+    "cat": 0,
+    "segment_id": "patient64687_study1_view1_frontal",
+    "img_name": "patient64687_study1_view1_frontal.jpg",
+    "mask_name": "patient64687_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 581,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      269,
+      143,
+      538,
+      478
+    ],
+    "cat": 0,
+    "segment_id": "patient64639_study1_view1_frontal",
+    "img_name": "patient64639_study1_view1_frontal.jpg",
+    "mask_name": "patient64639_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 624,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      266,
+      105,
+      395,
+      395
+    ],
+    "cat": 0,
+    "segment_id": "patient64545_study1_view1_frontal",
+    "img_name": "patient64545_study1_view1_frontal.jpg",
+    "mask_name": "patient64545_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 688,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangular, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangular, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      227,
+      129,
+      354,
+      434
+    ],
+    "cat": 0,
+    "segment_id": "patient64640_study1_view2_lateral",
+    "img_name": "patient64640_study1_view2_lateral.jpg",
+    "mask_name": "patient64640_study1_view2_lateral_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 746,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the lateral view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape oval, and located in center of the lateral view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      217,
+      84,
+      508,
+      384
+    ],
+    "cat": 0,
+    "segment_id": "patient64636_study1_view1_frontal",
+    "img_name": "patient64636_study1_view1_frontal.jpg",
+    "mask_name": "patient64636_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 759,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      285,
+      72,
+      499,
+      381
+    ],
+    "cat": 0,
+    "segment_id": "patient64691_study1_view1_frontal",
+    "img_name": "patient64691_study1_view1_frontal.jpg",
+    "mask_name": "patient64691_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 776,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      148,
+      147,
+      439,
+      476
+    ],
+    "cat": 0,
+    "segment_id": "patient64546_study1_view1_frontal",
+    "img_name": "patient64546_study1_view1_frontal.jpg",
+    "mask_name": "patient64546_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 787,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      280,
+      141,
+      567,
+      411
+    ],
+    "cat": 0,
+    "segment_id": "patient64668_study1_view1_frontal",
+    "img_name": "patient64668_study1_view1_frontal.jpg",
+    "mask_name": "patient64668_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 825,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      322,
+      87,
+      609,
+      379
+    ],
+    "cat": 0,
+    "segment_id": "patient64655_study1_view1_frontal",
+    "img_name": "patient64655_study1_view1_frontal.jpg",
+    "mask_name": "patient64655_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 852,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      254,
+      102,
+      467,
+      342
+    ],
+    "cat": 0,
+    "segment_id": "patient64635_study1_view1_frontal",
+    "img_name": "patient64635_study1_view1_frontal.jpg",
+    "mask_name": "patient64635_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 969,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      260,
+      109,
+      507,
+      407
+    ],
+    "cat": 0,
+    "segment_id": "patient64612_study1_view1_frontal",
+    "img_name": "patient64612_study1_view1_frontal.jpg",
+    "mask_name": "patient64612_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1001,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      206,
+      121,
+      402,
+      437
+    ],
+    "cat": 0,
+    "segment_id": "patient64683_study1_view1_frontal",
+    "img_name": "patient64683_study1_view1_frontal.jpg",
+    "mask_name": "patient64683_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1058,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      168,
+      85,
+      569,
+      440
+    ],
+    "cat": 0,
+    "segment_id": "patient64698_study1_view1_frontal",
+    "img_name": "patient64698_study1_view1_frontal.jpg",
+    "mask_name": "patient64698_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1096,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      264,
+      159,
+      524,
+      442
+    ],
+    "cat": 0,
+    "segment_id": "patient64541_study1_view1_frontal",
+    "img_name": "patient64541_study1_view1_frontal.jpg",
+    "mask_name": "patient64541_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1174,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right, center, top left of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right, center, top left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity are present. "
+    }
+  },
+  {
+    "bbox": [
+      235,
+      117,
+      531,
+      464
+    ],
+    "cat": 0,
+    "segment_id": "patient64702_study1_view1_frontal",
+    "img_name": "patient64702_study1_view1_frontal.jpg",
+    "mask_name": "patient64702_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1179,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      288,
+      208,
+      527,
+      455
+    ],
+    "cat": 0,
+    "segment_id": "patient64689_study1_view1_frontal",
+    "img_name": "patient64689_study1_view1_frontal.jpg",
+    "mask_name": "patient64689_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1185,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      108,
+      555,
+      441
+    ],
+    "cat": 0,
+    "segment_id": "patient64621_study1_view1_frontal",
+    "img_name": "patient64621_study1_view1_frontal.jpg",
+    "mask_name": "patient64621_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1205,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present. "
+    }
+  },
+  {
+    "bbox": [
+      203,
+      164,
+      391,
+      418
+    ],
+    "cat": 0,
+    "segment_id": "patient64619_study1_view1_frontal",
+    "img_name": "patient64619_study1_view1_frontal.jpg",
+    "mask_name": "patient64619_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1219,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      151,
+      122,
+      417,
+      450
+    ],
+    "cat": 0,
+    "segment_id": "patient64732_study1_view1_frontal",
+    "img_name": "patient64732_study1_view1_frontal.jpg",
+    "mask_name": "patient64732_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1253,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      193,
+      142,
+      479,
+      428
+    ],
+    "cat": 0,
+    "segment_id": "patient64603_study1_view1_frontal",
+    "img_name": "patient64603_study1_view1_frontal.jpg",
+    "mask_name": "patient64603_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1293,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      166,
+      137,
+      466,
+      512
+    ],
+    "cat": 0,
+    "segment_id": "patient64697_study1_view1_frontal",
+    "img_name": "patient64697_study1_view1_frontal.jpg",
+    "mask_name": "patient64697_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1371,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape a rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape a rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape a rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      15,
+      368,
+      388
+    ],
+    "cat": 0,
+    "segment_id": "patient64679_study1_view1_frontal",
+    "img_name": "patient64679_study1_view1_frontal.jpg",
+    "mask_name": "patient64679_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1435,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Pneumothorax, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Pneumothorax, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      200,
+      165,
+      489,
+      418
+    ],
+    "cat": 0,
+    "segment_id": "patient64650_study1_view1_frontal",
+    "img_name": "patient64650_study1_view1_frontal.jpg",
+    "mask_name": "patient64650_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1449,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      212,
+      40,
+      545,
+      422
+    ],
+    "cat": 0,
+    "segment_id": "patient64592_study1_view1_frontal",
+    "img_name": "patient64592_study1_view1_frontal.jpg",
+    "mask_name": "patient64592_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1467,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      244,
+      162,
+      548,
+      483
+    ],
+    "cat": 0,
+    "segment_id": "patient64675_study1_view1_frontal",
+    "img_name": "patient64675_study1_view1_frontal.jpg",
+    "mask_name": "patient64675_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1474,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      167,
+      167,
+      380,
+      448
+    ],
+    "cat": 0,
+    "segment_id": "patient64543_study1_view1_frontal",
+    "img_name": "patient64543_study1_view1_frontal.jpg",
+    "mask_name": "patient64543_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1484,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      248,
+      168,
+      527,
+      462
+    ],
+    "cat": 0,
+    "segment_id": "patient64708_study1_view1_frontal",
+    "img_name": "patient64708_study1_view1_frontal.jpg",
+    "mask_name": "patient64708_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1633,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum are present. "
+    }
+  },
+  {
+    "bbox": [
+      182,
+      104,
+      450,
+      358
+    ],
+    "cat": 0,
+    "segment_id": "patient64622_study1_view1_frontal",
+    "img_name": "patient64622_study1_view1_frontal.jpg",
+    "mask_name": "patient64622_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1689,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      213,
+      48,
+      450,
+      464
+    ],
+    "cat": 0,
+    "segment_id": "patient64647_study1_view1_frontal",
+    "img_name": "patient64647_study1_view1_frontal.jpg",
+    "mask_name": "patient64647_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1717,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present. "
+    }
+  },
+  {
+    "bbox": [
+      214,
+      86,
+      473,
+      457
+    ],
+    "cat": 0,
+    "segment_id": "patient64719_study1_view1_frontal",
+    "img_name": "patient64719_study1_view1_frontal.jpg",
+    "mask_name": "patient64719_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1719,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      106,
+      93,
+      408,
+      406
+    ],
+    "cat": 0,
+    "segment_id": "patient64552_study1_view1_frontal",
+    "img_name": "patient64552_study1_view1_frontal.jpg",
+    "mask_name": "patient64552_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1763,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      269,
+      82,
+      513,
+      370
+    ],
+    "cat": 0,
+    "segment_id": "patient64688_study1_view1_frontal",
+    "img_name": "patient64688_study1_view1_frontal.jpg",
+    "mask_name": "patient64688_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1771,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape oval, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape oval, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      214,
+      44,
+      492,
+      397
+    ],
+    "cat": 0,
+    "segment_id": "patient64712_study1_view1_frontal",
+    "img_name": "patient64712_study1_view1_frontal.jpg",
+    "mask_name": "patient64712_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1779,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      264,
+      47,
+      411,
+      369
+    ],
+    "cat": 0,
+    "segment_id": "patient64699_study1_view1_frontal",
+    "img_name": "patient64699_study1_view1_frontal.jpg",
+    "mask_name": "patient64699_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1814,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      153,
+      45,
+      421,
+      371
+    ],
+    "cat": 0,
+    "segment_id": "patient64596_study1_view1_frontal",
+    "img_name": "patient64596_study1_view1_frontal.jpg",
+    "mask_name": "patient64596_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1822,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Pleural Effusion are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      227,
+      9,
+      374,
+      347
+    ],
+    "cat": 0,
+    "segment_id": "patient64637_study1_view1_frontal",
+    "img_name": "patient64637_study1_view1_frontal.jpg",
+    "mask_name": "patient64637_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1922,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      196,
+      132,
+      498,
+      461
+    ],
+    "cat": 0,
+    "segment_id": "patient64672_study1_view1_frontal",
+    "img_name": "patient64672_study1_view1_frontal.jpg",
+    "mask_name": "patient64672_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1938,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      235,
+      66,
+      439,
+      316
+    ],
+    "cat": 0,
+    "segment_id": "patient64572_study1_view1_frontal",
+    "img_name": "patient64572_study1_view1_frontal.jpg",
+    "mask_name": "patient64572_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1940,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present. "
+    }
+  },
+  {
+    "bbox": [
+      246,
+      125,
+      500,
+      404
+    ],
+    "cat": 0,
+    "segment_id": "patient64553_study1_view1_frontal",
+    "img_name": "patient64553_study1_view1_frontal.jpg",
+    "mask_name": "patient64553_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2000,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      171,
+      122,
+      412,
+      355
+    ],
+    "cat": 0,
+    "segment_id": "patient64574_study1_view1_frontal",
+    "img_name": "patient64574_study1_view1_frontal.jpg",
+    "mask_name": "patient64574_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2002,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      131,
+      508,
+      417
+    ],
+    "cat": 0,
+    "segment_id": "patient64656_study1_view1_frontal",
+    "img_name": "patient64656_study1_view1_frontal.jpg",
+    "mask_name": "patient64656_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2012,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      201,
+      117,
+      446,
+      355
+    ],
+    "cat": 0,
+    "segment_id": "patient64624_study1_view1_frontal",
+    "img_name": "patient64624_study1_view1_frontal.jpg",
+    "mask_name": "patient64624_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2037,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      261,
+      65,
+      574,
+      362
+    ],
+    "cat": 0,
+    "segment_id": "patient64674_study1_view1_frontal",
+    "img_name": "patient64674_study1_view1_frontal.jpg",
+    "mask_name": "patient64674_study1_view1_frontal_enlarged_cardiomediastinum.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2088,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Enlarged Cardiomediastinum in a chest Xray.",
+      "p2": "Enlarged Cardiomediastinum in the frontal view of a Chest Xray.",
+      "p3": "Enlarged Cardiomediastinum of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Enlarged Cardiomediastinum of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Enlarged Cardiomediastinum in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "bbox": [
+      304,
+      221,
+      507,
+      343
+    ],
+    "cat": 0,
+    "segment_id": "patient64548_study1_view1_frontal",
+    "img_name": "patient64548_study1_view1_frontal.jpg",
+    "mask_name": "patient64548_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 33,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      91,
+      154,
+      489,
+      395
+    ],
+    "cat": 0,
+    "segment_id": "patient64620_study1_view1_frontal",
+    "img_name": "patient64620_study1_view1_frontal.jpg",
+    "mask_name": "patient64620_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 469,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in right, left of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in right, left of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      371,
+      309,
+      548,
+      431
+    ],
+    "cat": 0,
+    "segment_id": "patient64740_study1_view1_frontal",
+    "img_name": "patient64740_study1_view1_frontal.jpg",
+    "mask_name": "patient64740_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 535,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      306,
+      212,
+      509,
+      405
+    ],
+    "cat": 0,
+    "segment_id": "patient64630_study1_view1_frontal",
+    "img_name": "patient64630_study1_view1_frontal.jpg",
+    "mask_name": "patient64630_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 616,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      177,
+      323,
+      191,
+      397
+    ],
+    "cat": 0,
+    "segment_id": "patient64676_study1_view1_frontal",
+    "img_name": "patient64676_study1_view1_frontal.jpg",
+    "mask_name": "patient64676_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 679,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape triangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape triangle, and located in left, top left, top left, top left, left, center, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape triangle, and located in left, top left, top left, top left, left, center, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      405,
+      18,
+      523,
+      379
+    ],
+    "cat": 0,
+    "segment_id": "patient64678_study1_view1_frontal",
+    "img_name": "patient64678_study1_view1_frontal.jpg",
+    "mask_name": "patient64678_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 860,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      350,
+      298,
+      407,
+      398
+    ],
+    "cat": 0,
+    "segment_id": "patient64676_study1_view2_lateral",
+    "img_name": "patient64676_study1_view2_lateral.jpg",
+    "mask_name": "patient64676_study1_view2_lateral_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 881,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the lateral view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the lateral view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in right of the lateral view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in right of the lateral view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      59,
+      274,
+      138,
+      378
+    ],
+    "cat": 0,
+    "segment_id": "patient64643_study1_view1_frontal",
+    "img_name": "patient64643_study1_view1_frontal.jpg",
+    "mask_name": "patient64643_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 977,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in left, left, top left, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in left, left, top left, bottom left of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pneumothorax, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pneumothorax, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      105,
+      259,
+      503,
+      410
+    ],
+    "cat": 0,
+    "segment_id": "patient64690_study1_view1_frontal",
+    "img_name": "patient64690_study1_view1_frontal.jpg",
+    "mask_name": "patient64690_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 989,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in right, bottom of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in right, bottom of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      26,
+      216,
+      177,
+      364
+    ],
+    "cat": 0,
+    "segment_id": "patient64667_study1_view1_frontal",
+    "img_name": "patient64667_study1_view1_frontal.jpg",
+    "mask_name": "patient64667_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1073,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in left of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in left of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      55,
+      293,
+      556,
+      467
+    ],
+    "cat": 0,
+    "segment_id": "patient64657_study1_view1_frontal",
+    "img_name": "patient64657_study1_view1_frontal.jpg",
+    "mask_name": "patient64657_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1276,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in bottom left, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in bottom left, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      34,
+      270,
+      508,
+      441
+    ],
+    "cat": 0,
+    "segment_id": "patient64623_study1_view1_frontal",
+    "img_name": "patient64623_study1_view1_frontal.jpg",
+    "mask_name": "patient64623_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1520,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in left, top left, left, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in left, top left, left, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      172,
+      79,
+      464,
+      111
+    ],
+    "cat": 0,
+    "segment_id": "patient64609_study1_view1_frontal",
+    "img_name": "patient64609_study1_view1_frontal.jpg",
+    "mask_name": "patient64609_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1534,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in top right, top, top left, top left of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in top right, top, top left, top left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      323,
+      244,
+      498,
+      390
+    ],
+    "cat": 0,
+    "segment_id": "patient64711_study1_view1_frontal",
+    "img_name": "patient64711_study1_view1_frontal.jpg",
+    "mask_name": "patient64711_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1622,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pneumothorax, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pneumothorax, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      311,
+      265,
+      506,
+      378
+    ],
+    "cat": 0,
+    "segment_id": "patient64654_study1_view1_frontal",
+    "img_name": "patient64654_study1_view1_frontal.jpg",
+    "mask_name": "patient64654_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1653,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      393,
+      110,
+      440,
+      336
+    ],
+    "cat": 0,
+    "segment_id": "patient64720_study1_view1_frontal",
+    "img_name": "patient64720_study1_view1_frontal.jpg",
+    "mask_name": "patient64720_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1933,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangle, and located in right of the frontal view of a Chest Xray. Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      332,
+      230,
+      500,
+      338
+    ],
+    "cat": 0,
+    "segment_id": "patient64644_study1_view1_frontal",
+    "img_name": "patient64644_study1_view1_frontal.jpg",
+    "mask_name": "patient64644_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2101,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape square in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      114,
+      245,
+      481,
+      389
+    ],
+    "cat": 0,
+    "segment_id": "patient64694_study1_view1_frontal",
+    "img_name": "patient64694_study1_view1_frontal.jpg",
+    "mask_name": "patient64694_study1_view1_frontal_pleural_effusion.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2153,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Pleural Effusion in a chest Xray.",
+      "p2": "Pleural Effusion in the frontal view of a Chest Xray.",
+      "p3": "Pleural Effusion of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Pleural Effusion of shape rectangular, and located in left, right of the frontal view of a Chest Xray.",
+      "p5": "Pleural Effusion of shape rectangular, and located in left, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Pleural Effusion in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  }
+]

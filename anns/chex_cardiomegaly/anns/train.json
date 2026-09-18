@@ -1,0 +1,1017 @@
+[
+  {
+    "bbox": [
+      214,
+      190,
+      440,
+      367
+    ],
+    "cat": 0,
+    "segment_id": "patient64660_study1_view1_frontal",
+    "img_name": "patient64660_study1_view1_frontal.jpg",
+    "mask_name": "patient64660_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 128,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      251,
+      232,
+      538,
+      437
+    ],
+    "cat": 0,
+    "segment_id": "patient64722_study1_view1_frontal",
+    "img_name": "patient64722_study1_view1_frontal.jpg",
+    "mask_name": "patient64722_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 135,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      191,
+      271,
+      494,
+      498
+    ],
+    "cat": 0,
+    "segment_id": "patient64569_study1_view1_frontal",
+    "img_name": "patient64569_study1_view1_frontal.jpg",
+    "mask_name": "patient64569_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 161,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      239,
+      510,
+      380
+    ],
+    "cat": 0,
+    "segment_id": "patient64684_study1_view1_frontal",
+    "img_name": "patient64684_study1_view1_frontal.jpg",
+    "mask_name": "patient64684_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 314,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      138,
+      240,
+      473,
+      453
+    ],
+    "cat": 0,
+    "segment_id": "patient64738_study1_view1_frontal",
+    "img_name": "patient64738_study1_view1_frontal.jpg",
+    "mask_name": "patient64738_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 326,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in bottom of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in bottom of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      217,
+      227,
+      577,
+      442
+    ],
+    "cat": 0,
+    "segment_id": "patient64610_study1_view1_frontal",
+    "img_name": "patient64610_study1_view1_frontal.jpg",
+    "mask_name": "patient64610_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 415,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape heart in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape heart, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape heart, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      169,
+      164,
+      454,
+      354
+    ],
+    "cat": 0,
+    "segment_id": "patient64642_study1_view1_frontal",
+    "img_name": "patient64642_study1_view1_frontal.jpg",
+    "mask_name": "patient64642_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 554,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape oval, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape oval, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      236,
+      128,
+      553,
+      357
+    ],
+    "cat": 0,
+    "segment_id": "patient64687_study1_view1_frontal",
+    "img_name": "patient64687_study1_view1_frontal.jpg",
+    "mask_name": "patient64687_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 580,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      269,
+      229,
+      538,
+      475
+    ],
+    "cat": 0,
+    "segment_id": "patient64639_study1_view1_frontal",
+    "img_name": "patient64639_study1_view1_frontal.jpg",
+    "mask_name": "patient64639_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 622,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      217,
+      192,
+      508,
+      384
+    ],
+    "cat": 0,
+    "segment_id": "patient64636_study1_view1_frontal",
+    "img_name": "patient64636_study1_view1_frontal.jpg",
+    "mask_name": "patient64636_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 758,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      285,
+      178,
+      499,
+      381
+    ],
+    "cat": 0,
+    "segment_id": "patient64691_study1_view1_frontal",
+    "img_name": "patient64691_study1_view1_frontal.jpg",
+    "mask_name": "patient64691_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 775,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      148,
+      252,
+      439,
+      476
+    ],
+    "cat": 0,
+    "segment_id": "patient64546_study1_view1_frontal",
+    "img_name": "patient64546_study1_view1_frontal.jpg",
+    "mask_name": "patient64546_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 786,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in bottom of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in bottom of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      322,
+      186,
+      609,
+      379
+    ],
+    "cat": 0,
+    "segment_id": "patient64655_study1_view1_frontal",
+    "img_name": "patient64655_study1_view1_frontal.jpg",
+    "mask_name": "patient64655_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 851,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      260,
+      219,
+      507,
+      407
+    ],
+    "cat": 0,
+    "segment_id": "patient64612_study1_view1_frontal",
+    "img_name": "patient64612_study1_view1_frontal.jpg",
+    "mask_name": "patient64612_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1000,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      168,
+      172,
+      569,
+      408
+    ],
+    "cat": 0,
+    "segment_id": "patient64698_study1_view1_frontal",
+    "img_name": "patient64698_study1_view1_frontal.jpg",
+    "mask_name": "patient64698_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1094,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      264,
+      206,
+      524,
+      442
+    ],
+    "cat": 0,
+    "segment_id": "patient64541_study1_view1_frontal",
+    "img_name": "patient64541_study1_view1_frontal.jpg",
+    "mask_name": "patient64541_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1173,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity are present. "
+    }
+  },
+  {
+    "bbox": [
+      246,
+      266,
+      531,
+      464
+    ],
+    "cat": 0,
+    "segment_id": "patient64702_study1_view1_frontal",
+    "img_name": "patient64702_study1_view1_frontal.jpg",
+    "mask_name": "patient64702_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1177,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      288,
+      287,
+      527,
+      455
+    ],
+    "cat": 0,
+    "segment_id": "patient64689_study1_view1_frontal",
+    "img_name": "patient64689_study1_view1_frontal.jpg",
+    "mask_name": "patient64689_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1183,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      232,
+      191,
+      555,
+      440
+    ],
+    "cat": 0,
+    "segment_id": "patient64621_study1_view1_frontal",
+    "img_name": "patient64621_study1_view1_frontal.jpg",
+    "mask_name": "patient64621_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1204,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present. "
+    }
+  },
+  {
+    "bbox": [
+      151,
+      220,
+      417,
+      450
+    ],
+    "cat": 0,
+    "segment_id": "patient64732_study1_view1_frontal",
+    "img_name": "patient64732_study1_view1_frontal.jpg",
+    "mask_name": "patient64732_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1251,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      193,
+      262,
+      479,
+      428
+    ],
+    "cat": 0,
+    "segment_id": "patient64603_study1_view1_frontal",
+    "img_name": "patient64603_study1_view1_frontal.jpg",
+    "mask_name": "patient64603_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1291,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in bottom of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in bottom of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      200,
+      255,
+      489,
+      418
+    ],
+    "cat": 0,
+    "segment_id": "patient64650_study1_view1_frontal",
+    "img_name": "patient64650_study1_view1_frontal.jpg",
+    "mask_name": "patient64650_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1446,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      212,
+      166,
+      545,
+      422
+    ],
+    "cat": 0,
+    "segment_id": "patient64592_study1_view1_frontal",
+    "img_name": "patient64592_study1_view1_frontal.jpg",
+    "mask_name": "patient64592_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1466,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      254,
+      254,
+      548,
+      483
+    ],
+    "cat": 0,
+    "segment_id": "patient64675_study1_view1_frontal",
+    "img_name": "patient64675_study1_view1_frontal.jpg",
+    "mask_name": "patient64675_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1473,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      182,
+      209,
+      450,
+      358
+    ],
+    "cat": 0,
+    "segment_id": "patient64622_study1_view1_frontal",
+    "img_name": "patient64622_study1_view1_frontal.jpg",
+    "mask_name": "patient64622_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1687,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      213,
+      205,
+      450,
+      464
+    ],
+    "cat": 0,
+    "segment_id": "patient64647_study1_view1_frontal",
+    "img_name": "patient64647_study1_view1_frontal.jpg",
+    "mask_name": "patient64647_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1716,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present. "
+    }
+  },
+  {
+    "bbox": [
+      214,
+      194,
+      473,
+      438
+    ],
+    "cat": 0,
+    "segment_id": "patient64719_study1_view1_frontal",
+    "img_name": "patient64719_study1_view1_frontal.jpg",
+    "mask_name": "patient64719_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1718,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      152,
+      211,
+      406,
+      386
+    ],
+    "cat": 0,
+    "segment_id": "patient64552_study1_view1_frontal",
+    "img_name": "patient64552_study1_view1_frontal.jpg",
+    "mask_name": "patient64552_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1760,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      217,
+      174,
+      492,
+      377
+    ],
+    "cat": 0,
+    "segment_id": "patient64712_study1_view1_frontal",
+    "img_name": "patient64712_study1_view1_frontal.jpg",
+    "mask_name": "patient64712_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1777,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      153,
+      185,
+      421,
+      371
+    ],
+    "cat": 0,
+    "segment_id": "patient64596_study1_view1_frontal",
+    "img_name": "patient64596_study1_view1_frontal.jpg",
+    "mask_name": "patient64596_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1820,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Pleural Effusion are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      196,
+      277,
+      498,
+      461
+    ],
+    "cat": 0,
+    "segment_id": "patient64672_study1_view1_frontal",
+    "img_name": "patient64672_study1_view1_frontal.jpg",
+    "mask_name": "patient64672_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1936,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema are present. "
+    }
+  },
+  {
+    "bbox": [
+      235,
+      166,
+      439,
+      316
+    ],
+    "cat": 0,
+    "segment_id": "patient64572_study1_view1_frontal",
+    "img_name": "patient64572_study1_view1_frontal.jpg",
+    "mask_name": "patient64572_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1939,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly are present. "
+    }
+  },
+  {
+    "bbox": [
+      246,
+      236,
+      500,
+      404
+    ],
+    "cat": 0,
+    "segment_id": "patient64553_study1_view1_frontal",
+    "img_name": "patient64553_study1_view1_frontal.jpg",
+    "mask_name": "patient64553_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1999,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape square in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      201,
+      197,
+      446,
+      355
+    ],
+    "cat": 0,
+    "segment_id": "patient64624_study1_view1_frontal",
+    "img_name": "patient64624_study1_view1_frontal.jpg",
+    "mask_name": "patient64624_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2035,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      261,
+      179,
+      574,
+      362
+    ],
+    "cat": 0,
+    "segment_id": "patient64674_study1_view1_frontal",
+    "img_name": "patient64674_study1_view1_frontal.jpg",
+    "mask_name": "patient64674_study1_view1_frontal_cardiomegaly.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2087,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Cardiomegaly in a chest Xray.",
+      "p2": "Cardiomegaly in the frontal view of a Chest Xray.",
+      "p3": "Cardiomegaly of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Cardiomegaly of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Cardiomegaly in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  }
+]

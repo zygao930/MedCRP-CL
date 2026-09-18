@@ -1,0 +1,1394 @@
+[
+  {
+    "bbox": [
+      289,
+      204,
+      480,
+      352
+    ],
+    "cat": 0,
+    "segment_id": "patient64660_study1_view1_frontal",
+    "img_name": "patient64660_study1_view1_frontal.jpg",
+    "mask_name": "patient64660_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 127,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      364,
+      226,
+      527,
+      376
+    ],
+    "cat": 0,
+    "segment_id": "patient64722_study1_view1_frontal",
+    "img_name": "patient64722_study1_view1_frontal.jpg",
+    "mask_name": "patient64722_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 134,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      289,
+      297,
+      519,
+      473
+    ],
+    "cat": 0,
+    "segment_id": "patient64569_study1_view1_frontal",
+    "img_name": "patient64569_study1_view1_frontal.jpg",
+    "mask_name": "patient64569_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 160,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      283,
+      264,
+      489,
+      407
+    ],
+    "cat": 0,
+    "segment_id": "patient64725_study1_view1_frontal",
+    "img_name": "patient64725_study1_view1_frontal.jpg",
+    "mask_name": "patient64725_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 241,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      344,
+      213,
+      526,
+      425
+    ],
+    "cat": 0,
+    "segment_id": "patient64684_study1_view1_frontal",
+    "img_name": "patient64684_study1_view1_frontal.jpg",
+    "mask_name": "patient64684_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 313,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      185,
+      265,
+      523,
+      417
+    ],
+    "cat": 0,
+    "segment_id": "patient64561_study1_view1_frontal",
+    "img_name": "patient64561_study1_view1_frontal.jpg",
+    "mask_name": "patient64561_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 460,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangular, and located in center, center, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangular, and located in center, center, bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      335,
+      245,
+      509,
+      385
+    ],
+    "cat": 0,
+    "segment_id": "patient64640_study1_view1_frontal",
+    "img_name": "patient64640_study1_view1_frontal.jpg",
+    "mask_name": "patient64640_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 523,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      45,
+      229,
+      443,
+      345
+    ],
+    "cat": 0,
+    "segment_id": "patient64608_study1_view1_frontal",
+    "img_name": "patient64608_study1_view1_frontal.jpg",
+    "mask_name": "patient64608_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 587,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape oval in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape oval, and located in right, left of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape oval, and located in right, left of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      298,
+      265,
+      596,
+      469
+    ],
+    "cat": 0,
+    "segment_id": "patient64639_study1_view1_frontal",
+    "img_name": "patient64639_study1_view1_frontal.jpg",
+    "mask_name": "patient64639_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 621,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      408,
+      310,
+      499,
+      380
+    ],
+    "cat": 0,
+    "segment_id": "patient64607_study1_view1_frontal",
+    "img_name": "patient64607_study1_view1_frontal.jpg",
+    "mask_name": "patient64607_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 629,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      324,
+      240,
+      527,
+      403
+    ],
+    "cat": 0,
+    "segment_id": "patient64715_study1_view1_frontal",
+    "img_name": "patient64715_study1_view1_frontal.jpg",
+    "mask_name": "patient64715_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 638,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      349,
+      285,
+      511,
+      407
+    ],
+    "cat": 0,
+    "segment_id": "patient64545_study1_view1_frontal",
+    "img_name": "patient64545_study1_view1_frontal.jpg",
+    "mask_name": "patient64545_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 687,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      259,
+      233,
+      472,
+      437
+    ],
+    "cat": 0,
+    "segment_id": "patient64640_study1_view2_lateral",
+    "img_name": "patient64640_study1_view2_lateral.jpg",
+    "mask_name": "patient64640_study1_view2_lateral_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 743,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the lateral view of a Chest Xray.",
+      "p3": "Atelectasis of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Atelectasis of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Atelectasis of shape oval, and located in center of the lateral view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      35,
+      299,
+      491,
+      431
+    ],
+    "cat": 0,
+    "segment_id": "patient64546_study1_view1_frontal",
+    "img_name": "patient64546_study1_view1_frontal.jpg",
+    "mask_name": "patient64546_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 785,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      375,
+      279,
+      547,
+      407
+    ],
+    "cat": 0,
+    "segment_id": "patient64668_study1_view1_frontal",
+    "img_name": "patient64668_study1_view1_frontal.jpg",
+    "mask_name": "patient64668_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 822,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      76,
+      263,
+      527,
+      432
+    ],
+    "cat": 0,
+    "segment_id": "patient64560_study1_view1_frontal",
+    "img_name": "patient64560_study1_view1_frontal.jpg",
+    "mask_name": "patient64560_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 835,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape x ray in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape x ray, and located in center, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape x ray, and located in center, bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      394,
+      207,
+      601,
+      383
+    ],
+    "cat": 0,
+    "segment_id": "patient64655_study1_view1_frontal",
+    "img_name": "patient64655_study1_view1_frontal.jpg",
+    "mask_name": "patient64655_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 850,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      142,
+      254,
+      574,
+      470
+    ],
+    "cat": 0,
+    "segment_id": "patient64701_study1_view1_frontal",
+    "img_name": "patient64701_study1_view1_frontal.jpg",
+    "mask_name": "patient64701_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 862,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in center, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in center, bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      226,
+      181,
+      467,
+      337
+    ],
+    "cat": 0,
+    "segment_id": "patient64635_study1_view1_frontal",
+    "img_name": "patient64635_study1_view1_frontal.jpg",
+    "mask_name": "patient64635_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 967,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      330,
+      286,
+      492,
+      395
+    ],
+    "cat": 0,
+    "segment_id": "patient64612_study1_view1_frontal",
+    "img_name": "patient64612_study1_view1_frontal.jpg",
+    "mask_name": "patient64612_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 999,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      315,
+      233,
+      502,
+      383
+    ],
+    "cat": 0,
+    "segment_id": "patient64683_study1_view1_frontal",
+    "img_name": "patient64683_study1_view1_frontal.jpg",
+    "mask_name": "patient64683_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1057,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      337,
+      308,
+      517,
+      380
+    ],
+    "cat": 0,
+    "segment_id": "patient64571_study1_view1_frontal",
+    "img_name": "patient64571_study1_view1_frontal.jpg",
+    "mask_name": "patient64571_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1077,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      273,
+      229,
+      425,
+      421
+    ],
+    "cat": 0,
+    "segment_id": "patient64555_study1_view1_frontal",
+    "img_name": "patient64555_study1_view1_frontal.jpg",
+    "mask_name": "patient64555_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1083,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in right of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      103,
+      272,
+      296,
+      415
+    ],
+    "cat": 0,
+    "segment_id": "patient64649_study1_view1_frontal",
+    "img_name": "patient64649_study1_view1_frontal.jpg",
+    "mask_name": "patient64649_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1129,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      136,
+      254,
+      339,
+      405
+    ],
+    "cat": 0,
+    "segment_id": "patient64560_study1_view2_lateral",
+    "img_name": "patient64560_study1_view2_lateral.jpg",
+    "mask_name": "patient64560_study1_view2_lateral_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1143,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the lateral view of a Chest Xray.",
+      "p3": "Atelectasis of shape oval in the lateral view of a Chest Xray.",
+      "p4": "Atelectasis of shape oval, and located in center of the lateral view of a Chest Xray.",
+      "p5": "Atelectasis of shape oval, and located in center of the lateral view of a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      300,
+      270,
+      537,
+      472
+    ],
+    "cat": 0,
+    "segment_id": "patient64702_study1_view1_frontal",
+    "img_name": "patient64702_study1_view1_frontal.jpg",
+    "mask_name": "patient64702_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1176,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      324,
+      289,
+      520,
+      422
+    ],
+    "cat": 0,
+    "segment_id": "patient64689_study1_view1_frontal",
+    "img_name": "patient64689_study1_view1_frontal.jpg",
+    "mask_name": "patient64689_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1182,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      148,
+      309,
+      393,
+      414
+    ],
+    "cat": 0,
+    "segment_id": "patient64619_study1_view1_frontal",
+    "img_name": "patient64619_study1_view1_frontal.jpg",
+    "mask_name": "patient64619_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1218,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangular, and located in bottom left, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangular, and located in bottom left, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      130,
+      114,
+      426,
+      366
+    ],
+    "cat": 0,
+    "segment_id": "patient64583_study1_view1_frontal",
+    "img_name": "patient64583_study1_view1_frontal.jpg",
+    "mask_name": "patient64583_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1230,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangular in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangular, and located in top right, center, center of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangular, and located in top right, center, center of the frontal view of a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      123,
+      284,
+      460,
+      416
+    ],
+    "cat": 0,
+    "segment_id": "patient64603_study1_view1_frontal",
+    "img_name": "patient64603_study1_view1_frontal.jpg",
+    "mask_name": "patient64603_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1290,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom, bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      130,
+      249,
+      269,
+      385
+    ],
+    "cat": 0,
+    "segment_id": "patient64735_study1_view1_frontal",
+    "img_name": "patient64735_study1_view1_frontal.jpg",
+    "mask_name": "patient64735_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1348,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in center of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      99,
+      314,
+      478,
+      462
+    ],
+    "cat": 0,
+    "segment_id": "patient64697_study1_view1_frontal",
+    "img_name": "patient64697_study1_view1_frontal.jpg",
+    "mask_name": "patient64697_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1369,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom right, bottom left of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom right, bottom left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      373,
+      261,
+      512,
+      394
+    ],
+    "cat": 0,
+    "segment_id": "patient64608_study1_view2_lateral",
+    "img_name": "patient64608_study1_view2_lateral.jpg",
+    "mask_name": "patient64608_study1_view2_lateral_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1428,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the lateral view of a Chest Xray.",
+      "p3": "Atelectasis of shape x-ray in the lateral view of a Chest Xray.",
+      "p4": "Atelectasis of shape x-ray, and located in right of the lateral view of a Chest Xray.",
+      "p5": "Atelectasis of shape x-ray, and located in right of the lateral view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      311,
+      267,
+      464,
+      362
+    ],
+    "cat": 0,
+    "segment_id": "patient64650_study1_view1_frontal",
+    "img_name": "patient64650_study1_view1_frontal.jpg",
+    "mask_name": "patient64650_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1445,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      336,
+      265,
+      599,
+      418
+    ],
+    "cat": 0,
+    "segment_id": "patient64592_study1_view1_frontal",
+    "img_name": "patient64592_study1_view1_frontal.jpg",
+    "mask_name": "patient64592_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1465,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      338,
+      285,
+      560,
+      460
+    ],
+    "cat": 0,
+    "segment_id": "patient64675_study1_view1_frontal",
+    "img_name": "patient64675_study1_view1_frontal.jpg",
+    "mask_name": "patient64675_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1472,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      328,
+      246,
+      524,
+      406
+    ],
+    "cat": 0,
+    "segment_id": "patient64582_study1_view1_frontal",
+    "img_name": "patient64582_study1_view1_frontal.jpg",
+    "mask_name": "patient64582_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1581,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Edema, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      222,
+      291,
+      547,
+      506
+    ],
+    "cat": 0,
+    "segment_id": "patient64670_study1_view1_frontal",
+    "img_name": "patient64670_study1_view1_frontal.jpg",
+    "mask_name": "patient64670_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1592,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right, bottom of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right, bottom of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      114,
+      219,
+      514,
+      421
+    ],
+    "cat": 0,
+    "segment_id": "patient64703_study1_view1_frontal",
+    "img_name": "patient64703_study1_view1_frontal.jpg",
+    "mask_name": "patient64703_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1635,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in center, right of the frontal view of a Chest Xray. Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Consolidation, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      343,
+      264,
+      526,
+      421
+    ],
+    "cat": 0,
+    "segment_id": "patient64614_study1_view1_frontal",
+    "img_name": "patient64614_study1_view1_frontal.jpg",
+    "mask_name": "patient64614_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1752,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      104,
+      208,
+      446,
+      367
+    ],
+    "cat": 0,
+    "segment_id": "patient64552_study1_view1_frontal",
+    "img_name": "patient64552_study1_view1_frontal.jpg",
+    "mask_name": "patient64552_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1759,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right, left of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right, left of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pleural Effusion are present. "
+    }
+  },
+  {
+    "bbox": [
+      308,
+      238,
+      460,
+      379
+    ],
+    "cat": 0,
+    "segment_id": "patient64659_study1_view1_frontal",
+    "img_name": "patient64659_study1_view1_frontal.jpg",
+    "mask_name": "patient64659_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1809,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      370,
+      272,
+      535,
+      390
+    ],
+    "cat": 0,
+    "segment_id": "patient64699_study1_view1_frontal",
+    "img_name": "patient64699_study1_view1_frontal.jpg",
+    "mask_name": "patient64699_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1813,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      295,
+      349,
+      460,
+      434
+    ],
+    "cat": 0,
+    "segment_id": "patient64658_study1_view1_frontal",
+    "img_name": "patient64658_study1_view1_frontal.jpg",
+    "mask_name": "patient64658_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1872,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in bottom right of the frontal view of a Chest Xray. Lung Opacity, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      114,
+      229,
+      517,
+      472
+    ],
+    "cat": 0,
+    "segment_id": "patient64652_study1_view1_frontal",
+    "img_name": "patient64652_study1_view1_frontal.jpg",
+    "mask_name": "patient64652_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 1900,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in center, bottom right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in center, bottom right of the frontal view of a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion, Pleural Other, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Lung Opacity, Consolidation, Pneumonia, Atelectasis, Pleural Effusion, Pleural Other, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      120,
+      228,
+      492,
+      374
+    ],
+    "cat": 0,
+    "segment_id": "patient64656_study1_view1_frontal",
+    "img_name": "patient64656_study1_view1_frontal.jpg",
+    "mask_name": "patient64656_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2010,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in center, right of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in center, right of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Lung Opacity, Edema, Atelectasis, Support Devices are present. "
+    }
+  },
+  {
+    "bbox": [
+      290,
+      211,
+      424,
+      363
+    ],
+    "cat": 0,
+    "segment_id": "patient64624_study1_view1_frontal",
+    "img_name": "patient64624_study1_view1_frontal.jpg",
+    "mask_name": "patient64624_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2034,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape rectangle in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape rectangle, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape rectangle, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Consolidation, Atelectasis are present. "
+    }
+  },
+  {
+    "bbox": [
+      209,
+      216,
+      294,
+      265
+    ],
+    "cat": 0,
+    "segment_id": "patient64674_study1_view1_frontal",
+    "img_name": "patient64674_study1_view1_frontal.jpg",
+    "mask_name": "patient64674_study1_view1_frontal_atelectasis.png",
+    "sentences": [
+      {
+        "idx": 0,
+        "sent_id": 2086,
+        "sent": ""
+      }
+    ],
+    "sentences_num": 1,
+    "prompts": {
+      "p0": "",
+      "p1": "Atelectasis in a chest Xray.",
+      "p2": "Atelectasis in the frontal view of a Chest Xray.",
+      "p3": "Atelectasis of shape square in the frontal view of a Chest Xray.",
+      "p4": "Atelectasis of shape square, and located in center of the frontal view of a Chest Xray.",
+      "p5": "Atelectasis of shape square, and located in center of the frontal view of a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present.",
+      "p6": "Atelectasis in a Chest Xray. Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, Support Devices are present. "
+    }
+  }
+]
