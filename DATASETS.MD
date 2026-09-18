@@ -16,20 +16,19 @@
 
 ## Dataset Splits and Task Construction
 
-We follow the train/validation/test splits provided by [MedVLSM](https://github.com/naamiinepal/medvlsm) and do not perform additional random re-splitting.
+We follow the train/validation/test splits provided by MedVLSM and do not perform additional random re-splitting.
 
 For datasets containing multiple semantic classes or subtypes, we further partition the samples within each MedVLSM split based on the class information encoded in the annotation/image filenames, while preserving their original train/validation/test membership.
 
-**CheXlocalize** is partitioned into 7 pathology-specific tasks according to the pathology encoded in the mask filename:
-`chex_airspace_opacity`, `chex_atelectasis`, `chex_cardiomegaly`, `chex_edema`, `chex_enlarged_cardiomediastinum`, `chex_pleural_effusion`, and `chex_support_devices`.
+CheXlocalize is partitioned into 7 pathology-specific tasks according to the pathology encoded in the mask filename:
+chex_airspace_opacity, chex_atelectasis, chex_cardiomegaly, chex_edema, chex_enlarged_cardiomediastinum, chex_pleural_effusion, and chex_support_devices.
 
-**BUSI** is partitioned into 2 tumor-specific tasks according to the class encoded in the filenames:
-`busi_benign` and `busi_malignant`.
+BUSI is partitioned into 2 tumor-specific tasks according to the class encoded in the filenames:
+busi_benign and busi_malignant.
 
-**CAMUS** is retained as a single multi-class task (`camus`) containing LV, LA, and MYO structures.
+CAMUS is retained as a single multi-class task (camus) containing LV, LA, and MYO structures.
 
-The original MedVLSM split annotations are publicly available under:
-`data/<dataset>/anns/{train,val,test}.json`.
+The JSON annotation files used in our experiments for 15 datasets are provided in the anns/ directory of this repository. The CVC-300 annotations are currently being re-checked to ensure consistency with the original MedVLSM resources and the standard CVC-300 dataset. I am contacting the original authors for further clarification and will update the repository if necessary.
 
 
 ## Directory Structure
