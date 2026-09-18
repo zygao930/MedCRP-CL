@@ -16,7 +16,7 @@
 
 ## Dataset Splits and Task Construction
 
-We follow the train/validation/test splits provided by MedVLSM and do not perform additional random re-splitting.
+I follow the train/validation/test splits provided by MedVLSM and do not perform additional random re-splitting.
 
 For datasets containing multiple semantic classes or subtypes, we further partition the samples within each MedVLSM split based on the class information encoded in the annotation/image filenames, while preserving their original train/validation/test membership.
 
