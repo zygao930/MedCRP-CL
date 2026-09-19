@@ -11,6 +11,8 @@
 
 I have released the JSON annotation files used in my experiments for 15 of the 16 datasets to improve reproducibility. The released annotation files can be found in the `anns/` directory.
 
+I have also added a sample_dataset/ directory containing representative image-mask pairs to illustrate the expected dataset samples. These samples are provided only as examples of the input format. You should obtain the complete datasets from their original sources and follow the corresponding licenses.
+
 The CVC-300 annotations are currently being re-checked to ensure consistency with the original [MedVLSM](https://github.com/naamiinepal/medvlsm) resources and the standard CVC-300 dataset. I am contacting the original authors for further clarification and will update the repository if necessary.
 
 ## Abstract
