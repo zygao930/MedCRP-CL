@@ -16,7 +16,7 @@
 
 ## Dataset Splits and Task Construction
 
-I follow the train/validation/test splits provided by MedVLSM and do not perform additional random re-splitting.
+I follow the train/validation/test splits provided by MedVLSM.
 
 For datasets containing multiple semantic classes or subtypes, we further partition the samples within each MedVLSM split based on the class information encoded in the annotation/image filenames, while preserving their original train/validation/test membership.
 
@@ -70,7 +70,7 @@ data/
 Each folder contains:
 - `anns/`: JSON annotation files with text prompts (`train.json`, `val.json`, `test.json`)
 - `images/`: input images
-- `masks/`: binary segmentation masks (0 = background, 255 = foreground)
+- `masks/`: binary segmentation masks
 
 The mask filenames must match the `mask_name` field in the corresponding JSON files.
 
