@@ -8,7 +8,7 @@
 | Kvasir-SEG | Endoscopy | 1 | https://datasets.simula.no/kvasir-seg/ |
 | ClinicDB | Endoscopy | 1 | https://www.kaggle.com/datasets/balraj98/cvcclinicdb |
 | ETIS-LaribPolypDB | Endoscopy | 1 | https://drive.google.com/drive/folders/10QXjxBJqCf7PAXqbDvoceWmZ-qF07tFi?usp=sharing |
-| CVC-300 | Endoscopy | 1 | https://drive.google.com/drive/folders/10QXjxBJqCf7PAXqbDvoceWmZ-qF07tFi?usp=sharing |
+| CVC-300 | Endoscopy | 1 | Under verification |
 | CVC-ColonDB | Endoscopy | 1 | https://www.kaggle.com/datasets/hopmai/cvc-colondb |
 | ISIC | Dermoscopy | 1 | https://challenge.isic-archive.com/data/ |
 | CheXlocalize | Chest X-ray | 7 (see below) | https://stanfordaimi.azurewebsites.net/datasets/23c56a0d-15de-405b-87c8-99c30138950c |
