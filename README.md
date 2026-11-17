@@ -7,6 +7,13 @@
 [![Checkpoint](https://img.shields.io/badge/HuggingFace-Checkpoint-ffd21e.svg)](https://huggingface.co/clg-g/MedCRP-CL)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## Update — November 17, 2026
+
+As I have received many emails regarding the CVC-300 annotations, I want to clarify that I have contacted the original MedVLSM authors but have not yet received a response.
+
+First thank you for the interest in the project. For now, I strongly recommend skipping CVC-300 and proceeding with the other 15 datasets. I will update the repository as soon as I receive a response from the original authors.
+
+
 ## Update — September 18, 2026
 
 I have released the JSON annotation files used in my experiments for 15 of the 16 datasets to improve reproducibility. The released annotation files can be found in the `anns/` directory.
